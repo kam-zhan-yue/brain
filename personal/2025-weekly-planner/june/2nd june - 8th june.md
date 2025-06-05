@@ -35,7 +35,8 @@
 - [x] Work @ 8am - 4pm
 - [x] Chill @ 4pm - 7pm
 - [x] Sort out Semester @ 7pm - 8pm
-- [ ] Email Driving School @ 7:45pm
+- [x] Email Driving School @ 8pm
+- [ ] 
 ### Fri
 ---
 - [ ] Wake Up @ 7am
