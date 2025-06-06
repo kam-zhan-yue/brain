@@ -36,11 +36,15 @@
 - [x] Chill @ 4pm - 7pm
 - [x] Sort out Semester @ 7pm - 8pm
 - [x] Email Driving School @ 8pm
-- [ ] 
 ### Fri
 ---
-- [ ] Wake Up @ 7am
-- [ ] Work @ 8am - 4pm
+- [x] Wake Up @ 7am
+- [x] Work @ 8am - 11am
+- [x] Fitness: Chest, Shoulders, Triceps @ 11am - 12pm
+- [x] Lunch @ 12pm - 1pm
+- [x] Haircut @ 2pm - 4pm
+- [x] Work a bit more @ 5pm - 6pm
+- [ ] Check Steam Releases @ 6pm
 - [ ] Dinner with Kasei @ 6:30pm - 9pm
 ### Sat
 ---
