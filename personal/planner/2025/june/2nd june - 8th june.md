@@ -44,16 +44,20 @@
 - [x] Lunch @ 12pm - 1pm
 - [x] Haircut @ 2pm - 4pm
 - [x] Work a bit more @ 5pm - 6pm
-- [ ] Check Steam Releases @ 6pm
-- [ ] Dinner with Kasei @ 6:30pm - 9pm
+- [x] Check Steam Releases @ 6pm
+- [x] Dinner with Kasei @ 6:30pm - 9pm
 ### Sat
 ---
-- [ ] Wake Up @ 7am
-- [ ] Meet at Osaka @ 10:45am
-- [ ] Meetup @ 11am - 9pm
-- [ ] Get Home and Rest @ 10pm
+- [x] Wake Up @ 7am
+- [x] Meet at Osaka @ 10:45am
+- [x] Meetup @ 11am - 9pm
+- [x] Get Home and Rest @ 11pm
 ### Sun
 ---
-- [ ] Wake Up @ 7am
-- [ ] 
+- [ ] Wake Up @ 10am
+- [ ] Laundry @ 11am
+- [ ] Chill @ 11am - 2pm
+- [ ] Folding @ 2pm
+- [ ] Fitness: Legs, Back, Biceps @ 2:15pm - 3pm
+- [ ] Two Year Project @ 5pm - 7pm
 - [ ] Dinner with Bastian @ 7pm
