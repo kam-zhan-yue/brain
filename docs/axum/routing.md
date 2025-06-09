@@ -1,5 +1,6 @@
 Routing in `axum` is setup as handler functions that are routed by `axum::Router`.
 
+[See Documentation](https://docs.rs/axum/latest/axum/struct.Router.html#method.route)
 ## Routing
 `Router` is used to set up which paths go to which services.
 
@@ -17,6 +18,36 @@ async fn root() {}
 async fn get_foo() {}
 async fn post_foo() {}
 async fn foo_bar() {}
+```
+
+## `route`
+
+Adds another route to the router
+- `path` is a string of path segments separated by `/`. Each segment can be a static, a capture, or a wildcard
+- Captures: Paths can contain segments like `/{key}` that matches any single segment and stores the value capture at `key`
+- Wildcards: Paths can end in `/{*key}` which matches all segments and will store the segments captured at `key`
+
+```rust
+use axum::{Router, routing::{get, delete}, extract::Path};
+
+let app = Router::new()
+    .route("/", get(root))
+    .route("/users", get(list_users).post(create_user))
+    .route("/users/{id}", get(show_user))
+    .route("/api/{version}/users/{id}/action", delete(do_users_action))
+    .route("/assets/{*path}", get(serve_asset));
+
+async fn root() {}
+
+async fn list_users() {}
+
+async fn create_user() {}
+
+async fn show_user(Path(id): Path<u64>) {}
+
+async fn do_users_action(Path((version, id)): Path<(String, u64)>) {}
+
+async fn serve_asset(Path(path): Path<String>) {}
 ```
 
 ## `merge`
