@@ -1,5 +1,5 @@
 ## General Goals
-- [ ] Start on 2nd Year Project
+- [x] Start on 2nd Year Project
 
 ### Mon
 ---
@@ -54,10 +54,10 @@
 - [x] Get Home and Rest @ 11pm
 ### Sun
 ---
-- [ ] Wake Up @ 10am
-- [ ] Laundry @ 11am
-- [ ] Chill @ 11am - 2pm
-- [ ] Folding @ 2pm
-- [ ] Fitness: Legs, Back, Biceps @ 2:15pm - 3pm
-- [ ] Two Year Project @ 5pm - 7pm
-- [ ] Dinner with Bastian @ 7pm
+- [x] Wake Up @ 10am
+- [x] Laundry @ 11am
+- [x] Chill @ 11am - 2pm
+- [x] Folding @ 2pm
+- [x] Fitness: Legs, Back, Biceps @ 2:15pm - 3pm
+- [x] Two Year Project @ 5pm - 7pm
+- [x] Dinner with Bastian @ 7pm

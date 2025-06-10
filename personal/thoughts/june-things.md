@@ -1,9 +1,32 @@
 ## Things I Have To Do
+- [ ] Get Games on Steam (25th June)
+- [ ] Settle Tax (25th June)
+- [ ] Geology Notes (20th June)
+- [ ] Famine Notes (25th June)
+- [ ] Get Apartment Sorted (30th June)
+- [ ] Book Flights to Japan (30th June)
+- [ ] Graduate and Get J-Find Visa (25th July)
+- [ ] Two Year Anniversary Project (7th July)
 - [ ] Get Australian Driver's License (by 16th August)
-- [ ] Book Flights to Japan
-- [ ] Graduate and Get J-Find Visa
-- [ ] Get Apartment Sorted
-- [ ] Settle Tax
+
+## Two Year
+- [ ] Websockets (9th June)
+- [ ] Deployment (12th June)
+- [ ] Dialogue (18th June)
+- [ ] Game Flow ()
+- [ ] Art (30th June)
+- [ ] Completion (5th July)
+- [ ] Showcase (7th July)
+
+## Production Division
+- [ ] Setup Steam Bot Account (10th June)
+- [ ] Follow up on Steam Pages
+- [ ] Production Division Website (20th June)
+## Geology Notes
+- [ ] Exam (20th June)
+
+## Famine Notes
+- [ ] Exam (25th June)
 ## Driving License
 - [ ] Organise Driving Lessons (by 13th June)
 - [ ] Verify Malaysian License (by 18th June)
