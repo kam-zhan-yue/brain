@@ -14,9 +14,13 @@
 ---
 - [x] Wake Up @ 10am
 - [x] Plan June @ 11am
-- [ ] Project: Docker and Deployment @ 11:30am
-- [ ] Production Division: Website
-- [ ] Geology: Start Study Notes
+- [x] Project: Start on Docker and Deployment @ 11:30am
+- [x] Lunch and Chill @ 12pm - 4pm
+- [x] Production Division: Website @ 5pm - 6pm
+- [x] Groceries @ 6pm - 7pm
+- [x] Chill @ 7pm - 8pm
+- [x] Production Division: Main Page @ 8pm - 9pm
+- [ ] Geology: Start Study Notes @ 9pm - 10pm
 
 ### Wed
 ---

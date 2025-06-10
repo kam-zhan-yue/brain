@@ -18,9 +18,13 @@
 - [ ] Completion (5th July)
 - [ ] Showcase (7th July)
 
-## Production Division
+## Production Division Steam Pages
 - [ ] Setup Steam Bot Account (10th June)
-- [ ] Follow up on Steam Pages
+- [ ] Finalise Basic Steam Pages (10th June)
+
+## Production Division Website
+- [ ] Fix Bugs (10th June)
+- [ ] Implement Game Page (11th June)
 - [ ] Production Division Website (20th June)
 ## Geology Notes
 - [ ] Exam (20th June)

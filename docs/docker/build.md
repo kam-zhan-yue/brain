@@ -73,6 +73,8 @@ The `-t test:latest`  option specifies the name and tag of the image. The single
 
 After the image has been built, you can run the application as a container with `docker run`, specifying the image name.
 
+This publishes the container's port 8000 to `http://localhost:8000` on the Docker host.
+
 ```shell
-docker run test:latest
+docker run -p 127.0.0.1:8000:8000 test:latest
 ```
