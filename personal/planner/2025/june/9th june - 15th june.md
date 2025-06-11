@@ -20,11 +20,12 @@
 - [x] Groceries @ 6pm - 7pm
 - [x] Chill @ 7pm - 8pm
 - [x] Production Division: Main Page @ 8pm - 9pm
-- [ ] Geology: Start Study Notes @ 9pm - 10pm
+- [x] Geology: Start Study Notes @ 9pm - 10pm
 
 ### Wed
 ---
-- [ ] 
+- [ ] Work @ 8am - 4pm
+- [x] Email JStay @ 8:30am
 ### Thurs
 --- 
 - [ ] 
