@@ -3,24 +3,21 @@
 
 ### Mon
 ---
-- [x] Wake Up @ 10am
-- [x] Project: Axum Websockets @ 11am - 8pm
-- [x] Lunch @ 12pm - 2pm
-- [x] Chill @ 8pm - late
+- [ ] Flight
 ### Tue
 ---
-- [ ] Project: Dialogue System Frontend
-- [ ] Project: Dialogue System Backend
-
+- [ ] Flight
 ### Wed
 ---
-- [ ] 
+- [ ] Work @ 9am - 5pm
+- [ ] Geology: Notes @ 6pm - 10pm
 ### Thurs
 --- 
-- [ ] 
+- [ ] Work @ 9am - 5pm
+- [ ] Geology: Notes @ 6pm - 10pm
 ### Fri
 ---
-- [ ] 
+- [ ] Exam
 ### Sat
 ---
 - [ ] 

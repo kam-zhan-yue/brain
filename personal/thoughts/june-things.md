@@ -10,7 +10,7 @@
 - [ ] Get Australian Driver's License (by 16th August)
 
 ## Two Year
-- [ ] Websockets (9th June)
+- [x] Websockets (9th June)
 - [ ] Deployment (12th June)
 - [ ] Dialogue (18th June)
 - [ ] Game Flow ()
@@ -19,11 +19,11 @@
 - [ ] Showcase (7th July)
 
 ## Production Division Steam Pages
-- [ ] Setup Steam Bot Account (10th June)
-- [ ] Finalise Basic Steam Pages (10th June)
+- [ ] Setup Steam Bot Account (11th June)
+- [ ] Finalise Basic Steam Pages (15th June)
 
 ## Production Division Website
-- [ ] Fix Bugs (10th June)
+- [x] Fix Bugs (10th June)
 - [ ] Implement Game Page (11th June)
 - [ ] Production Division Website (20th June)
 ## Geology Notes

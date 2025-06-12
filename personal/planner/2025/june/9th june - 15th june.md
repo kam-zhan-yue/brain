@@ -10,6 +10,7 @@
 - [x] Wake Up @ 10am
 - [x] Project: Axum Websockets @ 11am - 8pm
 - [x] Lunch @ 12pm - 2pm
+- [x] Fitness: Chest, Shoulders, Triceps
 ### Tue
 ---
 - [x] Wake Up @ 10am
@@ -24,14 +25,24 @@
 
 ### Wed
 ---
-- [ ] Work @ 8am - 4pm
+- [x] Work @ 8am - 4pm
 - [x] Email JStay @ 8:30am
+- [x] Fitness: Legs, Back, Biceps @ 6pm - 7pm
+- [x] Production Division: Fix Ordering in Showcase @ 7pm - 8pm
 ### Thurs
 --- 
-- [ ] 
+- [ ] Work @ 8am - 4pm
+- [ ] Meet at Osaka @ 5:30pm
+- [ ] Baseball Match @ 6pm - 9pm
+- [ ] Get Home @ 9pm - 10pm
+- [ ] Project: Deployment
+- [ ] Production Division: Steam Bot Account
+- [ ] Production Division: Steam Pages
 ### Fri
 ---
-- [ ] 
+- [ ] Work @ 8am - 4pm
+- [ ] Rugby @ 5pm - 9pm
+- [ ] Dinner @ 9pm - 11pm
 ### Sat
 ---
 - [ ] 
