@@ -31,21 +31,25 @@
 - [x] Production Division: Fix Ordering in Showcase @ 7pm - 8pm
 ### Thurs
 --- 
-- [ ] Work @ 8am - 4pm
-- [ ] Meet at Osaka @ 5:30pm
-- [ ] Baseball Match @ 6pm - 9pm
-- [ ] Get Home @ 9pm - 10pm
-- [ ] Project: Deployment
-- [ ] Production Division: Steam Bot Account
-- [ ] Production Division: Steam Pages
+- [x] Work @ 8am - 4pm
+- [x] Meet at Osaka @ 5:30pm
+- [x] Baseball Match @ 6pm - 9pm
+- [x] Get Home @ 9pm - 10pm
+- [x] Dinner and Rest @ 11pm - 12am
 ### Fri
 ---
-- [ ] Work @ 8am - 4pm
-- [ ] Rugby @ 5pm - 9pm
-- [ ] Dinner @ 9pm - 11pm
+- [x] Work @ 8am - 4pm
+- [x] Clean Room @ 9:30am
+- [x] Laundry @ 9:45am
+- [x] Rugby @ 5pm - 9pm
+- [x] Dinner @ 9pm - 11pm
 ### Sat
 ---
-- [ ] 
+- [x] Wake Up @ 10am
+- [x] Work @ 11am - 5pm
+- [x] Rest @ 6pm - 7:30pm
+- [x] Production Division: Steam Page PR @ 7:30pm - 8pm
+- [ ] Production Division: Individual Game Website
 ### Sun
 ---
-- [ ] 
+- [ ] Project: Deployment
