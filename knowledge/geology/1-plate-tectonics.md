@@ -50,5 +50,9 @@ The oceanic crustal strength profile can be described through the Creme Brulee m
 - Strength is mostly concentrated in the brittle upper layer. The mantle lithosphere is relatively weak or behaves ductile due to high temperatures or hydration.
 
 
-
 **Why is continental lithosphere so geologically and structurally diverse and how do we know this?**
+
+The continental lithosphere refers to the relatively stable and long-lasting part of the Earth's crust that is found beneath the continents.
+- It has a slower rate of creation and destruction compared to the oceanic lithosphere
+- It undergoes a variety of tectonic and thermal events during its lifetime
+- It is chemically more diverse and experiences different processes than oceanic lithosphere

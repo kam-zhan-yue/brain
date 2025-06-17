@@ -1,0 +1,33 @@
+## General Goals
+- [ ] Famine: Exam
+
+### Mon
+---
+- [ ] Wake Up @ 8am
+- [ ] Work @ 9am - 5pm
+- [ ] Production Division: Team Aqua Meeting @ 7pm
+- [ ] Famine: Study @ 8pm - 10pm
+### Tue
+---
+- [ ] Wake Up @ 8am
+- [ ] Work @ 9am - 5pm
+- [ ] Famine: Study @ 6pm - 8pm
+### Wed
+---
+- [ ] Wake Up @ 7am
+- [ ] Famine: Final Exam @ 8:30am
+- [ ] Overseas License Conversion @ 8:30am
+- [ ] Work @ 9:30am - 5pm
+- [ ] Geology: Earthquakes, Foliation and Lineation @ 6pm - 10pm
+### Thurs
+--- 
+- [ ] Work @ 9am - 5pm
+### Fri
+---
+- [ ] Work @ 9am - 5pm
+### Sat
+---
+- [ ] 
+### Sun
+---
+- [ ] 

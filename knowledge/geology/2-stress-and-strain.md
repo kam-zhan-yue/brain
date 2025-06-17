@@ -31,6 +31,17 @@
 
 **What is the difference between the different mechanisms of deformation?**
 
+The main mechanisms of deformation are brittle, elastic, and plastic.
+- Brittle deformation describes the breaking of rocks under stress
+- Elastic deformation occurs when the atomic bonds in the rock bend, accumulating stress and releasing it upon reverting back to its original shape
+- Plastic deformation occurs when the atomic bonds are broken to allow for the bending of rock, without accumulating any energy
+
 **What is the brittle-ductile transition and why does it exist?**
+
+The brittle-ductile transition zone is the zone of the Earth's crust that marks the transition from the upper, more brittle crust to the lower, more ductile crust.
+
+The transition zone exists due to the interaction between pressure and temperature at different depths.
+- At shallower depths, rocks are brittle and fracture under stress as pressure and temperatures are lower
+- As pressure and temperature increase with depth, rocks become more ductile, deforming by flow rather than fracturing.
 
 **Could you sketch a cross-section of a major lithospheric fault zone through the crust and discuss how fault zone width, earthquake locations, and deformation styles vary with depth?**

@@ -11,7 +11,7 @@
 
 ## Two Year
 - [x] Websockets (9th June)
-- [ ] Deployment (12th June)
+- [x] Deployment (12th June)
 - [ ] Dialogue (18th June)
 - [ ] Game Flow ()
 - [ ] Art (30th June)
@@ -48,10 +48,43 @@ Conferral Dates are [here](https://students.unimelb.edu.au/your-course/manage-yo
 - 25th July (most likely this one)
 - Physical 
 
-- [ ] Call about J-Find Visa (by 20th June)
+- [x] Call about J-Find Visa (by 20th June)
 - [ ] Change Address to Kim's (by 23rd July)
 - [ ] Get Graduation Certificate (by 25th July)
 - [ ] Graduation Ceremony (by 14th August)
+
+### [J-Find Visa](https://www.moj.go.jp/isa/applications/status/designatedactivities51.html?hl=en)
+
+First need to get a COE, then need to apply for the Visa? How can I get the COE?
+
+ANSWERED: Don't need a COE, just need the graduation documents
+
+Three Requirements
+- Graduated from top 100 university
+- Within 5 years of graduation
+- Possession of 200,000 yen
+
+Required Documents
+- Passport
+- Visa Application Form (with photo)
+- Certificate of Eligibility
+- Documents to prove the awarded qualification
+- Documents to prove that the applicant has enough personal savings
+- Description of Intended Activities
+- Curriculum vitae
+- Pledge to the necessary procedures for joining the Health Insurance
+
+Steps
+- Graduate
+
+- Apply for Certificate of Eligibility
+	- Application for COE
+	- Photo
+	- Return Envelope
+	- Graduation Document
+	- Resume
+	- Stay Schedule
+
 
 ## Apartment 
 - [ ] Book Flights (by 1st July)

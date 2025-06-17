@@ -2,5 +2,4 @@ Most computer programs are executed in the same order in which they are written.
 
 Through asynchronous programming, operations that cannot complete immediately are suspended to the background. The thread is not blocked, and can continue running other things. Once the operation completes, the task is unsuspended and continues processing from where it left off.
 
-Asynchronous programs can result in faster applications, but often results in much more complicated programs as the programmer has to track all the state necessary to resume work once the asynchronous operation completse.
-
+Asynchronous programs can result in faster applications, but often results in much more complicated programs as the programmer has to track all the state necessary to resume work once the asynchronous operation completes
