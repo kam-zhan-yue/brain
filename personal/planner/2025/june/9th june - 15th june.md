@@ -1,9 +1,9 @@
 ## General Goals
 - [x] Project: Finalise Websocket Implementation
-- [ ] Project: Deployment
-- [ ] Apartment Research
-- [ ] Geology: Study Notes
-- [ ] Production Division: Website
+- [x] Project: Deployment
+- [x] Apartment Research
+- [x] Geology: Study Notes
+- [x] Production Division: Website
 
 ### Mon
 ---
@@ -49,7 +49,19 @@
 - [x] Work @ 11am - 5pm
 - [x] Rest @ 6pm - 7:30pm
 - [x] Production Division: Steam Page PR @ 7:30pm - 8pm
-- [ ] Production Division: Individual Game Website
+- [x] Production Division: Individual Game Website 8pm - 11pm
+- [x] Production Division: Deployment @ 11pm
+- [x] Project: Deployment @ 11:15pm
+- [x] Pick up Wato @ 11:30pm
 ### Sun
 ---
-- [ ] Project: Deployment
+- [x] Wake Up @ 6am
+- [x] Drop Wato at Keihan @ 7am - 8am
+- [x] Sleep @ 8am - 12pm
+- [x] Pack up Room and Bags @ 12pm - 1pm
+- [x] Lunch @ 1pm - 2pm
+- [x] Production Division: Puzzle Save System @ 2pm - 3:40pm
+- [x] Production Division: Page Under Construction @ 3:40pm - 4pm
+- [x] Get Flowers @ 4:15pm
+- [x] Go to Osaka @ 4:45pm
+- [x] Project: Plan Dialogue System @ 5pm - 5:30pm

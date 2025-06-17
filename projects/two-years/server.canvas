@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d2b7c0eca29865c2","type":"text","text":"### Client (Player 1)\n- Player 1 (self)\n- Player 2 (npc)\n- Ink Script","x":-680,"y":-380,"width":320,"height":260,"color":"5"},
+		{"id":"d9db0be5c7c42c47","type":"text","text":"### Client (Player 2)\n\n- Player 1 (npc)\n- Player 2 (self)\n- Ink Script","x":-660,"y":-60,"width":320,"height":200,"color":"5"},
+		{"id":"46203db6844cf14b","type":"text","text":"### Server","x":360,"y":-260,"width":320,"height":200,"color":"5"},
+		{"id":"c0df8aa356c16af8","type":"text","text":"### Player Payload\n\n```json\n{\n\t\"id\": \"Player\",\n\t\"position\": Vector3,\n\t\"animation\": string,\n}\n```","x":-200,"y":-540,"width":320,"height":260,"color":"2"},
+		{"id":"9af9c5cbea00f602","type":"text","text":"### Dialogue Payload\n\n```json\n{\n\t\"id\": \"Dialogue\",\n}\n```","x":-200,"y":-250,"width":320,"height":260,"color":"2"},
+		{"id":"3eec4eb08729f79b","type":"text","text":"### Game Payload\n\n```json\n{\n\t\"player_one\": Player,\n\t\"player_two\": Player,\n\t\"dialogue\": Dialogue,\n}\n```","x":-200,"y":60,"width":320,"height":260,"color":"2"}
+	],
+	"edges":[]
+}

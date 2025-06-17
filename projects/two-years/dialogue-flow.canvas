@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a368bd525f7531a4","x":-340,"y":-520,"width":560,"height":280,"type":"text","text":"### Neutral Node\n\nBoth players can advance at their own pace. The server waits for both players to finish the dialogue before going onto the next node.\n\nPlayer 1: This is a good day.\nPlayer 2: Indeed, this is a good day.\n\n*Server waits until both players have completed*"},
+		{"id":"19f2e5c97874b400","x":-340,"y":-116,"width":560,"height":436,"type":"text","text":"### Choice Node\n\nOne player has to make a decision. The question is shown as well as the choices that can be made.\n\nPlayer 1: What do you want to do today?\nPlayer 2:\n- Go to the aquarium\n- Go to the beach\n- Go to the zoo\n\nPlayer 1 sees the question being asked + \"waiting for response\"\nPlayer 2 sees the question being asked as well as the options.\n\nOnce the choice has been made, it is propagated to all players."}
+	],
+	"edges":[
+		{"id":"9d029088b806aa80","fromNode":"a368bd525f7531a4","fromSide":"bottom","toNode":"19f2e5c97874b400","toSide":"top"}
+	]
+}
