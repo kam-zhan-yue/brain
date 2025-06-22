@@ -27,3 +27,48 @@
 - Poverty tends to be chronic (chronically poor people are more or less permanently food insecure)
 
 ### The Market
+- Markets are institutions that enable structured exchanges for the interests of buyers and sellers
+- Capitalists: free markets involve government, individual property rights, money price, etc
+- Socialist (market economy): less free market, government and state ownership
+
+### Politics and Policy
+- Political Factors: strategic disruptions in supply, persistent development biases (i.e. some countries favoured over others)
+- Political Factors: Democracy vs. Authoritatian
+	- Multi party elections
+	- Free press that holds government accountable
+- Economic policy issues: export oriented, industrialisation, import substitution oriented, growth that generates employment
+- Other policy issues: Agricultural (i.e. cash crops), research and development, environmental, transport infrastructure, water resource
+
+### War and Conflict
+- Disrupts economic activity, food production, and food transport and storage
+- Armed forces appropriate food and medical assistance
+
+## Poverty
+- Poverty: When social and material needs are least satisfied
+	- Relative poverty: measured by relative shares of income of richest and poorest. The Gini Coefficient (0 = perfect equality, 1 = perfect inequality)
+	- Absolute poverty: measured against a standard baseline (US$1.90 pp/day)
+- Modernisation Theory (1960s-80s) states that top down economic development will inevitably 'progress' traditional societies (and reduce poverty) as they adopt modern ways and means as a part of societies' march to capitalist industrialisation
+- Causes of Poverty include and always involve a combination of:
+	- Unemployment and job insecurity
+	- Lacks of input to agriculture
+	- No access to technology
+	- Lack of access to markets and credit facilities
+	- Insecure land tenure
+	- Poor transport
+	- Lack of savings schemes
+
+### Poor Households
+- Have minimal capital assets
+- Labour is their main resources
+- Also rely on social capital
+- Knowledge, skills, and education: usually low formal education but high local knowledge
+- Socially marginal: geographically remote from power, may be by design
+- The poorest households in the poorest countries have the most severe food problems: major food problems are a function of absolute poverty and this extreme poverty can exist in even the most affluent societies
+- In a famine, income decreases when labour opportunities decline, land is taken, when there is no fixed minimum wage
+
+## Entitlements
+- Entitlements: the set of alternative commodity bundles (combination of social, material, etc) that a person can command in a society using the totality of rights and opportunities that he or she faces (Sen, 1984)
+- Entitlements are legally based social and material rights
+- Capabilities are the conditions and rights that enable people to do things: bodily health and integrity and an ability to imagine, reason, feel, play, affiliate with others and to hold property
+- Capabilities are enabled by bureaucratic, legal, cultural, and customary institutions that set the norms and rules of scoail conduct
+- Endowments are bundles of resources (social and material assets) and capabilities (conditions and rights) that can be transferred into producing food, or to goods and services that can be exchanged for food (e.g. Productive capital, non productive capital, human capital, income and claims)
