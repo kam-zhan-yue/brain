@@ -1,0 +1,16 @@
+## Timeline
+- 9am: Joined as Comms Dev
+	- Focusing on cloning db and locally produced
+- 9:16am: Bad commit identified -> 4ada21f7a35027d4f1672ec9b81011f6db23e1e8
+- 9:25am: Decision made to fail forwards instead of reverting commit (too many conflicts)
+- 9:41am: Initial PR created
+- 9:49am: Initial fix merged
+- 9:53am: QA servers looking good
+- 10:08am: CDS fixed, but errors found with other servers
+- 10:20am: Other servers being investigated
+- 10:41am: Second PR created
+- 11:30am: Second PR merged
+- 11:56am: Resolved for more servers
+- 12pm: Issue found for Guardian Safety
+- 12:15pm: Third PR created
+- 12:30pm: Third PR merged
