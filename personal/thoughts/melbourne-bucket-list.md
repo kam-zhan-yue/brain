@@ -32,14 +32,19 @@
 	- Sat: Winter Game Jam
 	- Sun: Winter Game Jam
 - 12th - 13th July
+	- 
 - 19th - 20th July
+	- Take care of Kim's rabbit
 - 26th - 27th July
-	- Driving Test Probably
+	- Sydney Trip
+	- (Driving Test 29th of July)
 - 2nd - 3rd August
 	- Sat: GMTK Game Jam
 	- Sun: GMTK Game Jam
 - 9th - 10th August
-	- Tasmania Trip?
+	- Mornington Trip
 - 16th - 17th August
+	- 14th August: [Museum After Dark](https://museumsvictoria.com.au/melbournemuseum/whats-on/august-nocturnal-museum-after-dark/)
+	- Birthday Weekend Trip 🥳
 - 23rd - 24th August
-- 30th - 31st August
+	- 

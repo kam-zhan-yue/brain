@@ -1,0 +1,5 @@
+- [x] Main BGM
+- [x] Footstep Sounds (Don't Do)
+- [x] Text Scrolling Sound (Don't Do)
+- [x] Clicking Sound
+- [x] Gift Giving Sound
