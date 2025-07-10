@@ -1,4 +1,4 @@
-# Japan Flight
+
 ## Option 1: Cathay Pacific
 - Alex: One-way flight from MEL-KIX
 - Wato: Return flight KIX-MEL
@@ -24,6 +24,7 @@ Return Flight
 Flight Time: 14h 30m
 Alex: $645
 Wato: $1,500
+
 Total: $2,145
 Checked Baggage: 4x20kg total
 ![[Screenshot 2025-07-05 at 11.54.55 AM.png]]

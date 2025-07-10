@@ -2,4 +2,5 @@
 - [ ] July 6th: Post Apartment Listing
 - [ ] July 29th: Driving Test (Morning)
 - [ ] July 29th: Visa Appointment (Afternoon)
+- [ ] August 23rd: Fly to Japan?
 - [ ] August 30th: Fly to Japan
