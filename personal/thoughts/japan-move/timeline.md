@@ -1,5 +1,6 @@
-- [ ] July 5th: Book Flights
+- [x] July 5th: Book Flights
 - [ ] July 6th: Post Apartment Listing
+- [ ] July 12th: Book 
 - [ ] July 29th: Driving Test (Morning)
 - [ ] July 29th: Visa Appointment (Afternoon)
 - [ ] August 23rd: Fly to Japan?
