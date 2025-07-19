@@ -12,30 +12,30 @@
 ## Two Year
 - [x] Websockets (9th June)
 - [x] Deployment (12th June)
-- [ ] Dialogue (18th June)
-- [ ] Game Flow ()
-- [ ] Art (30th June)
-- [ ] Completion (5th July)
-- [ ] Showcase (7th July)
+- [x] Dialogue (18th June)
+- [x] Game Flow ()
+- [x] Art (30th June)
+- [x] Completion (5th July)
+- [x] Showcase (7th July)
 
 ## Production Division Steam Pages
-- [ ] Setup Steam Bot Account (11th June)
-- [ ] Finalise Basic Steam Pages (15th June)
+- [x] Setup Steam Bot Account (11th June)
+- [x] Finalise Basic Steam Pages (15th June)
 
 ## Production Division Website
 - [x] Fix Bugs (10th June)
-- [ ] Implement Game Page (11th June)
-- [ ] Production Division Website (20th June)
+- [x] Implement Game Page (11th June)
+- [x] Production Division Website (20th June)
 ## Geology Notes
-- [ ] Exam (20th June)
+- [x] Exam (20th June)
 
 ## Famine Notes
-- [ ] Exam (25th June)
+- [x] Exam (25th June)
 ## Driving License
-- [ ] Organise Driving Lessons (by 13th June)
-- [ ] Verify Malaysian License (by 18th June)
-- [ ] Book Driving Test (by 20th June)
-- [ ] Take Driving Test (by 16th August)
+- [x] Organise Driving Lessons (by 13th June)
+- [x] Verify Malaysian License (by 18th June)
+- [x] Book Driving Test (by 20th June)
+- [x] Take Driving Test (by 16th August)
 
 ## Graduation and Visa
 See Unimelb's information on completing and conferring your degree [here](https://students.unimelb.edu.au/your-course/manage-your-course/graduation/complete-and-confer-your-degree)
