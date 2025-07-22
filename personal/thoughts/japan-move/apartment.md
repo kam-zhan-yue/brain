@@ -11,14 +11,15 @@ Target Move Date: 30th August
 - Lamp
 
 ## Apartment Listing Post
-- [Melbourne Student Accommodation](https://www.facebook.com/groups/melbournestudentaccommodation/)
-- [Melbourne Rooms for Rent, Housing, Apartments, Sublets, Roommates, Roomster](https://www.facebook.com/groups/257437204749190/)
-- [Melbourne Student Housing, Student Rent/Sublet Accommodation](https://www.facebook.com/groups/215688561155706/)
+- [Melbourne Student Accommodation](https://www.facebook.com/groups/melbournestudentaccommodation/) (POSTED)
+- [Melbourne Rooms for Rent, Housing, Apartments, Sublets, Roommates, Roomster](https://www.facebook.com/groups/257437204749190/) (POSTED)
+- [Melbourne Student Housing, Student Rent/Sublet Accommodation](https://www.facebook.com/groups/215688561155706/) (POSTED)
 
-- [Student Accommodation in Melbourne](https://www.facebook.com/groups/1057894084230720/)
-- [Melbourne International Student Housing](https://www.facebook.com/groups/melbournestudentaccomodation2025/)
-- [Student Accommodation in Melbourne 2025](https://www.facebook.com/groups/uniacco.melbourne/)
-- 
+- [Student Accommodation in Melbourne 2025](https://www.facebook.com/groups/uniacco.melbourne/) (PENDING)
+- [Lease Breakers Melbourne](https://www.facebook.com/groups/leasebreakersmelbourne/) (POSTED)
+- [Melbourne International Student Housing](https://www.facebook.com/groups/melbournestudentaccomodation2025/) (POSTED)
+
+- [Lease Breaker's Post](https://www.leasebreakersmelbourne.com/687de9f40885af00063c061e)
 ### Post
 
 ☀️ Lease Transfer - $425 / week Large Furnished Studio Apartment near UniMelb! (Students Only) ☀️

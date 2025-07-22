@@ -85,14 +85,20 @@
 - Buy Flowers @ 9am
 - Go to Airport @ 12pm
 - Wato Arrives @ 12:40pm
+- Lotss of sexxy timesssss
+- Family DInner
 
 **Friday**
 - Work Half Day @ 9am - 12:30pm
 - Pub Lunch @ 12:30pm - 1:30pm
 - Take Leave? Then have the rest of the day to explore Fitzroy / Collingwood
+- Family Dinner
 
 **Saturday**
-- Morning Peninsula Trip @ 9am - 7pm
+- Mornington Peninsula Trip @ 9am - 7pm
+	- Winery
+	- Lunch
+	- Hot Springs
 
 **Sunday**
 - Graduation Photos @ 12:30pm
@@ -101,6 +107,8 @@
 
 **Monday**
 - Work @ 9am - 5pm
+- Bouldering @ 5:30pm - 7:30pm
+- Dinner Somewhere
 
 **Tuesday**
 - Graduation @ 9am - 1:30pm
@@ -108,25 +116,28 @@
 
 **Wednesday**
 - Work @ 9am - 5pm
+- Winter Market @ 6pm onwards
 
 **Thursday**
 - Work @ 9am - 5pm
-- Family Leaves
+- Family Leaves @ ???
+- Museum After Dark @ 8pm
 
 **Friday**
-- Pub Lunch?
-- Work @ 9am - 5pm
+- Sovereign Hill Day Trip
 
 **Saturday**
- - Birthday!
+- Rose Street Market & Fitzroy Market
+- Other Activities
+- Birthday!
 
 **Sunday**
-
+- South Melbourne Market
+- Other Activities :))
 ### 18th August - 19th August
 
 **Monday**
-- Work @ 9am - 5pm
-- Birthday Leave?
+- Phillip Island Day Trip
 
 **Tuesday**
 - WFH @ 9am - 5pm
