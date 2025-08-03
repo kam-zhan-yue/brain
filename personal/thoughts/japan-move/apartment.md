@@ -10,6 +10,10 @@ Target Move Date: 30th August
 - Plants
 - Lamp
 
+## Other Websites
+- [Gumtree.com](https://www.gumtree.com.au/s-ad/carlton/property-for-rent/lease-transfer-large-furnished-studio-apartment-in-carlton/1335901782?posted=true)
+- Flatmates.com
+- flatmatefinders.com.au
 ## Apartment Listing Post
 - [Melbourne Student Accommodation](https://www.facebook.com/groups/melbournestudentaccommodation/) (POSTED)
 - [Melbourne Rooms for Rent, Housing, Apartments, Sublets, Roommates, Roomster](https://www.facebook.com/groups/257437204749190/) (POSTED)
@@ -18,15 +22,18 @@ Target Move Date: 30th August
 - [Student Accommodation in Melbourne 2025](https://www.facebook.com/groups/uniacco.melbourne/) (PENDING)
 - [Lease Breakers Melbourne](https://www.facebook.com/groups/leasebreakersmelbourne/) (POSTED)
 - [Melbourne International Student Housing](https://www.facebook.com/groups/melbournestudentaccomodation2025/) (POSTED)
+- [Fairy Floss](https://www.facebook.com/groups/1443741885744218/) (POSTED)
+- [Lease Transfer, Lease Takeover](https://www.facebook.com/groups/347497375458941/)
 
 - [Lease Breaker's Post](https://www.leasebreakersmelbourne.com/687de9f40885af00063c061e)
 ### Post
 
 ☀️ Lease Transfer - $425 / week Large Furnished Studio Apartment near UniMelb! (Students Only) ☀️
 
-I'm looking for someone to take over my lease on a large furnished studio apartment right next to Melbourne University from the 30th of August onwards. This apartment is under Student Housing Australia (SHA), so only students are allowed to reside here. SHA apartments are fully refurbished apartments made available to students at an affordable price point (unlike other student housing options... cough cough Unilodge/Scape).
+I'm looking for someone to take over my lease on a large furnished studio apartment right next to Melbourne University from the 31st of August onwards. This apartment is under Student Housing Australia (SHA), so only students are allowed to reside here. SHA apartments are fully refurbished apartments made available to students at an affordable price point (unlike other student housing options... cough cough Unilodge/Scape).
 
 - 💵 Rent: $425 / week
+- 🗓️ Available from: 31st August
 - 🏠 Address: 255 Cardigan Street (2-3 min walk from UniMelb)
 - 🚰 Gas and Water included
 - 🛏️ Furniture (TV, study desk, wardrobe, bed and mattress, dining table, crockery and cutlery, etc)

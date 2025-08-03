@@ -14,3 +14,7 @@ git rebase -X theirs tw-6842/4-2-use-location
 ```
 
 This command will start the rebase process and automatically resolve any conflicts by accepting the incoming changes from the `target-branch`.
+## Rebasing, but lazy
+```
+git rebase main -Xtheirs
+```
