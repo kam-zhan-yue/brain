@@ -15,4 +15,4 @@ Resolve it after you fix it and merged it.
 - Resolve "In the next release"
 
 ### Creating Tickets
-When you assign it to yourself or someone else, create a Jira ticket to track it.
+When you assign it to yourself or someone else, create a Jira ticket to track it.![[Screenshot 2025-08-05 at 9.33.27 am.png]]

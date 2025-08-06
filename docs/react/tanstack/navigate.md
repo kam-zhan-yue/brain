@@ -1,3 +1,4 @@
+In TSR,
 - `navigate({ to: '/tasks/' })` goes to an absolute
 - `navigate({ to: 'tasks/' })` goes to a relative
 

@@ -29,3 +29,12 @@ Each time you yank, or delete, or change, that gets put in a register.
 - Press `:` to enter command mode
 - Type the substitution command `s/old/new/g`
 - Press `Enter` to execute
+
+## Handy Stuff
+- SHIFT + C: Removes all the text from the cursor to the end of the file
+- `cib` Change in Bracket!
+- `ci"`: Changes the text inside double quotes. Place the cursor anywhere within or on the double quotes, then press `ci"`. The text inside the quotes will be deleted, and Vim will enter insert mode, allowing new text to be typed.
+- `ci'`: Changes the text inside single quotes. Similar to double quotes, place the cursor within or on the single quotes and press `ci'`.
+- `ci(` or `ci)`: Changes the text inside parentheses.
+- `ci[` or `ci]`: Changes the text inside square brackets.
+- `ci{` or `ci}`: Changes the text inside curly braces.
