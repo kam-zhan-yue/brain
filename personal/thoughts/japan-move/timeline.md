@@ -3,11 +3,11 @@
 - [x] July 6th: Post Apartment Listing
 
 ## Mid July
-- [ ] July 29th: Driving Test (Morning)
-- [ ] July 29th: Visa Appointment (Afternoon)
-- [ ] July 30th: Wato Finishes Exam
-- [ ] August 6th: Wato Arrives
-- [ ] August 23rd: Fly to Japan?
+- [x] July 29th: Driving Test (Morning)
+- [x] July 29th: Visa Appointment (Afternoon)
+- [x] July 30th: Wato Finishes Exam
+- [x] August 6th: Wato Arrives
+- [x] August 23rd: Fly to Japan?
 - [ ] August 30th: Fly to Japan
 - [ ] August 31st: Hopefully Wato has the keys
 

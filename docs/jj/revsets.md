@@ -20,4 +20,3 @@ JJ attempts to resolve a symbol in the following order
 2. Bookmark Name
 3. Git Ref
 4. Commit ID or change ID
-d

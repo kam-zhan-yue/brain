@@ -73,3 +73,16 @@ And we want to make `rwq` a parent of `orl`. We do
 │ │ │ ◉ rwqywnzl benjamin@dev.ofcr.se 47 seconds ago 402f7ad8
 │ │ │ │ new: avoid manual `unwrap()` call
 ```
+
+### Removing Parents
+We can use `jj rebase` to remove parents from a merge commit.
+
+Previously, when adding new parents, we can specify the destinations using `-d. "all:orl" -d NEW_PARENT_ID`. Now we specify the destinations using `-d "all:orl- ~ qkl"`. The new argument for the destination highlights more of the revset. language, in particular the set difference operator. `orl-` evaluates to the set of all parents of `orl`, but `~ qkl` now subtracts `qkl` from that set.
+
+```
+❯ jj rebase -s orl -d "all:orl- ~ qkl"
+Rebased 2 commits
+Working copy now at: uyllouwm 521e9749 (empty) (no description set)
+Parent commit : orllnptq 090ffb0d (empty) (no description set)
+Added 0 files, modified 9 files, removed 0 files
+```
