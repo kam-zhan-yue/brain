@@ -117,3 +117,8 @@ The flow is:
 ## Notes
 - [ ] We should set `trailingSlash` to always but for some reason it brings type errors
 - [ ] 
+
+### Server Validation for Login
+```python
+path("", views.HomeView.as_view(), name="home"),
+```

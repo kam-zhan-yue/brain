@@ -19,7 +19,16 @@ Each time you yank, or delete, or change, that gets put in a register.
 - `"<number>p` to paste the text held at that register
 - `"+y` to yank into system clipboard
 
+## Searching
+- `*` to search forward on a word
+- `#` to search backward on a word
+- `/` and search query to search forward
+- `?` and search query to search backwards
+- `n` to go to the previous query
+- `N` to go to the next query
+
 ## Navigation
+- `[[` and `]]` to go between functions
 
 ### Line Numbers
 - `:<linenumber>` or `<linenumber>G`

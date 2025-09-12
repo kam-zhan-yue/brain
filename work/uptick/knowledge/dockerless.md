@@ -36,10 +36,20 @@ python manage.py shell_plus
 ```
 
 To load data from a dump file
+First you need to either
+```
+dropdb workforce
+```
+
+or create a new database
+```
+createdb aesg
+```
 
 ```
 `psql --username=$USER workforce < database_dump_file_path`
 ```
+
 
 ## Issues
 
@@ -53,4 +63,35 @@ psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 
 
 [Solutions are discussed here](https://stackoverflow.com/questions/37307346/is-the-server-running-on-host-localhost-1-and-accepting-tcp-ip-connections)
 
-Try to 
+Try to (i did not find a solution)
+
+
+Do
+```
+brew services
+```
+
+You might see
+```
+Name          Status   User       File
+postgresql@14 error  1 kamzhanyue ~/Library/LaunchAgents/homebrew.mxcl.postgresql@14.plist
+redis         started  kamzhanyue ~/Library/LaunchAgents/homebrew.mxcl.redis.plist
+unbound       none
+```
+
+Need todo 
+
+
+Run postgrew manually
+```
+➜ /opt/homebrew/opt/postgresql@14/bin/postgres -D /opt/homebrew/var/postgresql@14
+
+2025-09-12 16:07:16.037 AEST [14617] FATAL:  lock file "postmaster.pid" already exists
+2025-09-12 16:07:16.037 AEST [14617] HINT:  Is another postmaster (PID 742) running in data directory "/opt/homebrew/var/postgresql@14"?
+```
+
+Then run 
+```
+kill -9 PID
+```
+
