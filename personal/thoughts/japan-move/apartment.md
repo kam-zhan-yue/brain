@@ -1,15 +1,3 @@
-Target Move Date: 30th August
-
-## Things to Sell
-- Couch
-- Bike
-- Guitar
-- Rice Cooker
-- Monitor
-## Things to Throw
-- Plants
-- Lamp
-
 ## Other Websites
 - [Gumtree.com](https://www.gumtree.com.au/s-ad/carlton/property-for-rent/lease-transfer-large-furnished-studio-apartment-in-carlton/1335901782?posted=true)
 - Flatmates.com
@@ -22,7 +10,7 @@ Target Move Date: 30th August
 - [Student Accommodation in Melbourne 2025](https://www.facebook.com/groups/uniacco.melbourne/) (PENDING)
 - [Lease Breakers Melbourne](https://www.facebook.com/groups/leasebreakersmelbourne/) (POSTED)
 - [Melbourne International Student Housing](https://www.facebook.com/groups/melbournestudentaccomodation2025/) (POSTED)
-- [Fairy Floss](https://www.facebook.com/groups/1443741885744218/) (POSTED)
+- [Fairy Floss](https://www.facebook.com/groups/1443741885744218/) (PENDING)
 - [Lease Transfer, Lease Takeover](https://www.facebook.com/groups/347497375458941/)
 - [Lease Breaker's Post](https://www.leasebreakersmelbourne.com/687de9f40885af00063c061e)
 ### Post
