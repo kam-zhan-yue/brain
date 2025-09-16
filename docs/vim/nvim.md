@@ -12,3 +12,9 @@
 
 ### General
 - `K` to show type hints
+
+## Wishlist
+- [ ] Split Screen
+- [ ] Better tab management
+- [ ] Commenting
+- [ ] Seeing the current file name / class, etc

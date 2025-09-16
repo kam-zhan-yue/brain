@@ -26,6 +26,7 @@ Each time you yank, or delete, or change, that gets put in a register.
 - `?` and search query to search backwards
 - `n` to go to the previous query
 - `N` to go to the next query
+- Type `:noh` to clear the search highlighting
 
 ## Navigation
 - `[[` and `]]` to go between functions
