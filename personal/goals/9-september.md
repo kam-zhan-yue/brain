@@ -5,12 +5,13 @@
 ## Career
 - [ ] Deploy Tanstack to all servers
 - [ ] Fully uplift the RoutineEditor component
+- [ ] Fully uplift the DispatchCreate component
 - [ ] Unit test the RoutedModal component
 
 ## Learning
 - [ ] Study Japanese Daily (Anki, Reading, Listening)
-- [ ] Setup Arch Linux on Spare Laptop
-- [ ] Start using Neovim more consistently
+- [x] Setup Arch Linux on Spare Laptop
+- [ ] Setup Neovim and Bash Scripts
 
 ## Fitness
 - [ ] Complete 10 pink climbs in bouldering
@@ -19,5 +20,9 @@
 ## Travel
 - [ ] Chugoku Trip (Tottori, Shimane, Okayama, HIroshima, Yamaguchi)
 - [ ] Kyushu Trip Part 1 (Nagasaki, Fukuoka, OIta, Kagoshima)
-- [ ] Mie Day Trip
+- [x] Mie Day Trip
 - [ ] Cycle Lake Biwa
+
+
+96 hours of leave by the end of Feb
+12 days of leave

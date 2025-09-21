@@ -13,6 +13,10 @@
 These will open buffers
 - `:w` to save a buffer
 
+- `<C-w>v` or `:vsplit` creates a vertical split buffer
+- `<C-w>c` closes the current window
+- `<C-w>o` closes all windows except the current one
+
 ## Yanking and Registers
 Each time you yank, or delete, or change, that gets put in a register.
 - `:reg` to see all of the registers

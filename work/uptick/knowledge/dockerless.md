@@ -1,5 +1,12 @@
 [See documentation here](https://uptickhq.atlassian.net/wiki/spaces/ENGINEER/pages/2425389067/Dockerless+local+development)
 
+Backend format and checking
+```bash
+ruff format
+ruff check
+mypy abas
+```
+
 Run migrations (whenever you see a migration checked-in)
 
 ```
