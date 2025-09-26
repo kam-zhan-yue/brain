@@ -18,3 +18,4 @@
 - [x] Better tab management
 - [x] Commenting
 - [x] Seeing the current file name / class, etc
+- [ ] Seeing git files

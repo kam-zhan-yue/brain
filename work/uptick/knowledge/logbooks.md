@@ -9,3 +9,5 @@ ref = parse.quote(
 ```
 
 To link something, we will have to go into the admin panel of logbooks-staging.onuptick.com/admin/forms/response and change the ref field on a response there.
+
+To login, go to `logbooks.onuptick.com/admin` which will trigger an SSO
