@@ -1,6 +1,6 @@
 Need to find the translation for below
 - Rubber Stamp
-- 
+- Feature Parity
 
 When describing things like `body=$program` and we want to say the result of program is assigned to body, we can say `$program`というメタ変数にキャプチャします.
 
