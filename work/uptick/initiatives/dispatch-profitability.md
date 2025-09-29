@@ -22,7 +22,8 @@ LineItem.prepare_for_task(self, performed_only=True, uninvoiced_only=True)
 This does a few things
 - Gets all the child tasks and groups them if it is the parent task
 - Calculates the line items for `task.subtasks`
-	- Gets all the subtasks with a billing contract (conflict)
+	- Gets all the subtasks without a fixed period billingcontract (if uninvoiced only)
+	- Gets all the subtask line items with a billing contract
 	- Not sure how quantity is calculated here, but it doesn't say `site_price`
 - Calculate line items for `task.servicetasks` where they are performed and uninvoiced
 	- Gets all servicetasks where `is_billable=True`
@@ -36,3 +37,7 @@ This does a few things
 - Calculates the line items for the child tasks recursively
 
 So, there are obviously differences here I think. Probably need to follow up with Marc
+
+Check whether they are actually realistic scenarios
+- `site_price`
+- product checks on service tasks

@@ -3,15 +3,15 @@
 - Masa: Rugby player
 - Toyoshima: Nerdy Vim user
 - Yamazon: Watched baseball with this dude, plays football
-- Yuki: Nerdy Kyodai guy
 - Nohara: Tall guy who exchanged to Texas
 - Mao: Business girl from Kansai
 - Rei: The only female engineer lol
 - Kabutan: Guy who organised the first meetup
 - Ishin: Aichi guy with glasses
+- Ueda: Kyoto guy (friends with Komukai)
+- Yuki: Nerdy Kyodai guy
 - Tomohiro: Other kyodai guy
 - Ikesaka: Phd guy
-- 
 
 
 星座、ペットの種類、見たことある映画、干支、出身地、小学校の番号、性格診断、部活動、両親の職業、好きなジブリ、ディズニー映画。スマホの機種。名前をローマ字にした際の最初の文字。東京都知事選の投票先。ポケモンの最初の三匹、水 or 焔 or 草。寿司ネタ。血液型、好きな季節、うまい棒の味のフレーバー、弾ける楽器、姓名判断、ココイチのカレーの辛さ。鶏肉 or 牛肉 or 豚肉。好きな曜日。習字 or 音楽 or 美術、好きなアイスのフレーバー、好きな SS、きのこ or たけのこ。富 or 名声 or 愛。回転焼き or 大判焼き or 今川焼き。ポテトチップス味。目玉焼きの調味料。あんこ vs きなこ。ご飯を盛り付けること、何て言う？うわばき or うわぐつ？ ぐっとっぱー？指スマ or いっせーのせ？ 給食の好きなおかず。身長。ご飯 or パン？ パイナップルピザ あり or なし。キーボード JIS or US。第2 外国語、犬 or 猫。染めたことのある髪の色。飲み会で最初に頼むのは？ラーメンの種類。朝型 or 夜型。電子書籍 or 紙書籍。たいやき 頭 or 尻尾。オンラインショップ or 実店舗。契約しているサブスクは？パスタのソースは？リボン結びのやり方。映画のエンドロールの見る？見ない？味噌の種類。MAC or Windows？カラオケの機種、DAM or Joysound。映画字幕 or 吹き替え。習い事、スポーツ or 芸術。箸の持ち方。ポップコーンの味付け。ディズニーランド or シー？地図見る際に回す回さない？塾いってた？子どもの頃の夢は？マックで注文する飲み物は？持っている資格は？ペットの名前。サークル。生年月日の合計の値は？ 得意科目は？文化祭の出し物は？アルバイトの経験は？住んでいる建物は何階建て？携帯キャリアは？メールアドレスドメインは？ 読んだことのある漫画は？メガネの度数は？同じ都市へ留学経験、病院。同じメーカー、同じ誕生日。同じ母親の名前。同じカバン。同じブランドの財布。同じ犬の犬種。同じ服。同じ名前。同じコスメ。最終面接官誰だった？同じ香水。メイド喫茶行ったことある？女装・男装したことある？配信してた？〇〇のライブ行ったことある？使っているキーボードは？お好み焼き or 広島風お好み焼き？ポーリングのスコア。投げられる球種。
