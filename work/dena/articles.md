@@ -1,0 +1,1 @@
+[GritQL vs. ast-grep](https://zenn.dev/hd_nvim/articles/f536e4e87f5d55#%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%3A-%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%8C%E9%87%8D%E8%A6%81)
