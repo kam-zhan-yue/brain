@@ -2,4 +2,5 @@
 target/
 .trash
 hidden/
+.DS_Store
 passwords.md
