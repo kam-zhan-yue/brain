@@ -1,0 +1,3 @@
+OpenGL is a specification maintained by www.khronos.org/ that specifies exactly what the result/output of each function should be and how it should perform. It is a set of functions used to manipulate graphics and images.
+
+The actual developed versions of OpenGL are allowed to have different implementations and are usually implemented by the graphics cards manufacturers. Each graphics card that you buy supports specific versions of OpenGL, which are the versions of OpenGL developed specifically for that card. This also means that whenever OpenGL is showing weird behaviour that it shouldn't, this is most likely the fault of the manufacturers.

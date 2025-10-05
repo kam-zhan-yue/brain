@@ -1,0 +1,1 @@
+The first thing to do is to create an OpenGL context and an application window to draw in. However, those operations are specific per operating system and OpenGL purposefully tries to abstract itself from these operations. This means we want to create a window, define a context, and handle user input all by ourselves.

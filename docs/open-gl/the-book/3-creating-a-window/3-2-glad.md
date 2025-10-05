@@ -1,0 +1,5 @@
+Because OpenGL is really only a standard/specification, it is up to the driver manufacturer to implement the specification to a driver that the specific graphics card supports. Since there are many different versions of OpenGL drivers, the location of most of its functions are not known at compile-time and needs to be queried at run-time. It is then the task of the developer to retrieve the location of the functions he/she needs and store them in function pointers for later use. 
+
+This function pointer storage and fetching is very cumbersome and there are libraries to assist this, such as GLAD.
+
+GLAD is an open source library that manages all that cumbersome work. It uses a web service where we can specify the version of OpenGL we'd like to define and load all relevant OpenGL functions according to that version.

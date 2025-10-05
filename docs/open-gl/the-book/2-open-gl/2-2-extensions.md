@@ -1,0 +1,3 @@
+A great feature of OpenGL is the support of extensions. Whenever a graphics company comes up with a new technique or a new large optimisation for rendering, this is often found in an extension implemented in the drivers. If the hardware an application runs on supports such an extension, the developer can use the functionality provided by the extension for more advanced or efficient graphics.
+
+This way, a graphics developer can still use these new rendering techniques without having to wait for OpenGL to include the functionality in its future versions, simply by checking if the extension is supported by the graphics card.
