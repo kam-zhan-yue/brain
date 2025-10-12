@@ -38,7 +38,7 @@
 ## Chugoku
 - [ ] Tottori
 - [ ] Shimane
-- [x] Okayama
+- [ ] Okayama
 - [ ] Hiroshima
 - [ ] Yamaguchi
 ## Shikoku
