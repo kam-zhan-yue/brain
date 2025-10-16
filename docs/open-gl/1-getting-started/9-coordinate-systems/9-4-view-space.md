@@ -1,0 +1,3 @@
+The view space is what people usually refer to as the *camera* of OpenGL. It is sometimes known as camera space or eye space. The view space is the result of transforming your world-space coordinates to coordinates that are in front of the user's view. The view space is thus the space as seen from the camera's point of view.
+
+This is usually accomplished with a combination of translations and rotations to translate/rotate the scene so that certain items are transformed to the front of the camera. These combined transformations are generally stored inside a view matrix.

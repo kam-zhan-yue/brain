@@ -1,0 +1,1 @@
+Local space is the coordinate space that is local to your object. E.g. in Blender, the origin of your cube is probably at (0, 0, 0). All vertices of your model are in local space.

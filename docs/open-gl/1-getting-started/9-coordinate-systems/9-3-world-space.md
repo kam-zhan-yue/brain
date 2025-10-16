@@ -1,0 +1,3 @@
+The coordinates in world space are exactly like what they sound like. This is the coordinate space where you want your objects transformed to in such a way that they're all scattered around the place. The coordinates of your object are transformed from local space to world space. This is accomplished with the model matrix.
+
+The model matrix is a transformation that translates, scales, and/or rotates your object to place it in the world at a location/orientation they belong to. Think of it as transforming a house by scaling it down, translating it to a suburbia town and rotating it to fit with the neighbouring houses.
