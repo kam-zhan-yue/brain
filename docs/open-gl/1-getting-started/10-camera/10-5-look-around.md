@@ -1,0 +1,1 @@
+To look around the scene, we have to change the `cameraFront` vector based on the input of the mouse. However, changing the direction vector based on mouse rotation is a little complicated and requires some trigonometry.
