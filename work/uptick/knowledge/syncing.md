@@ -1,0 +1,1 @@
+Sync frontend is triggered by mcommands. Specifically, `generate_typed_actions.py`

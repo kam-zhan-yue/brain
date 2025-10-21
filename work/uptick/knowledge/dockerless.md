@@ -102,3 +102,19 @@ Then run
 kill -9 PID
 ```
 
+
+### Issues
+```
+django.db.utils.OperationalError: could not open extension control file "/opt/homebrew/share/postgresql@14/extension/postgis.control": No such file or directory
+```
+
+This is because `brew install postgis` ended up installing for 17 and 18
+```shell
+> brew list | grep postgresql 
+postgresql@14 
+
+> find /opt/homebrew/share -name postgis.control /opt/homebrew/share/postgresql@17/extension/postgis.control /opt/homebrew/share/postgresql@18/extension/postgis.control
+
+```
+
+It seems like symlinking it doesn't work. So we will need to 

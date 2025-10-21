@@ -1,0 +1,1 @@
+Diffuse lighting gives the object more brightness the closer the fragments are aligned to the light rays from a source.
