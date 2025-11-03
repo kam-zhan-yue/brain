@@ -1,0 +1,3 @@
+Submodules allow you to use another project from within a project. Perhaps its a library that a third party developed, or that you're developing separately and using in multiple parent projects. A common issue arises in these scenarios: you want to be able to treat the two projects as separate yet still be able to use one from within the other.
+
+Submodules allow you to keep a Git repository as a subdirectory of another Git repository. This lets you clone another repository into your project and keep your commits separate.

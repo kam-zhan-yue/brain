@@ -29,8 +29,12 @@ Shit I need to do to get stronger.
 - [x] Bone Bottom
 - [x] The Marrow (probably)
 - [x] Deep Docks
+- [ ] Blasted Steps
+- [ ] Underworks
+- [x] Songclave
+- [ ] 
 
 ### Pale Oil
 [All Locations](https://www.ign.com/wikis/hollow-knight-silksong/Pale_Oil_Locations)
 - [x] Whispering Vaults
-- [ ] Great Taste of Pharloom Wish
+- [x] Great Taste of Pharloom Wish
