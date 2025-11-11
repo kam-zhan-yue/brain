@@ -1,0 +1,1 @@
+GLSL defines a few extra variables such as `gl_Position` that give us an extra means to gather and/or write data. 
