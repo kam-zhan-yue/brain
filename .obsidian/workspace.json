@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f1ba01be438ee0",
+        "id": "69363a0062022309",
         "type": "tabs",
         "children": [
           {
-            "id": "0a26dcb13c94980f",
+            "id": "b39b73f1b1891eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transpose(inverse",
+                "query": "vertex ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,8 +156,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -180,10 +180,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a26dcb13c94980f",
+  "active": "b39b73f1b1891eae",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 2.md",
+    "passwords.md",
+    "docs/open-gl/4-advanced-open-gl/31-instancing/31-1-instanced-arrays.md",
+    "docs/open-gl/4-advanced-open-gl/32-asteroid-field",
+    "docs/open-gl/4-advanced-open-gl/31-instancing/31-0-instancing.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-4-visualising-normal-vectors.md",
+    "docs/open-gl/4-advanced-open-gl/31-instancing",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-3-exploding-objects.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-1-using-geometry-shaders.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-houses.md",
+    "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-1-batching-vertex-attributes.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-house.png",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-triangle-strip.png",
+    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-1-glsl-built-in.md",
     "personal/planner/2025/weeks/2025-W46.md",
+    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-1-creating-a-cubemap.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-0-geometry-shader.md",
+    "docs/open-gl/extra-reading.md",
+    "Untitled 1.md",
+    "docs/open-gl/4-advanced-open-gl/30-geometry-shader",
+    "personal/planner/2025/weeks/2025-W45.md",
+    "Untitled.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-8.simple-example.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-7-using-uniform-buffers.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-7-binding-points.png",
@@ -192,42 +212,21 @@
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-4-interface-blocks.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-3-fragment-shader-variables.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-2-vertex-shader-variables.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-1-glsl-built-in.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl",
     "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-2-copying-buffers.md",
-    "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-1-batching-vertex-attributes.md",
-    "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-0-buffers.md",
     "docs/open-gl/4-advanced-open-gl/28-advanced-data",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-7-dynamic-environment-maps.md",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-6-refraction.png",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-6-reflection.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-6-environment-mapping.md",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-5-optimising-skybox.md",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-4-displaying-skybox.md",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-3-loading-skybox.md",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-2-skybox.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-2-skybox.md",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-1-cubemap.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-1-creating-a-cubemap.md",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps",
-    "docs/open-gl/4-advanced-open-gl/26-framebuffers/26-4-kernel-effects.md",
-    "docs/open-gl/4-advanced-open-gl/26-framebuffers/26-3-post-processing.md",
-    "docs/open-gl/4-advanced-open-gl/26-framebuffers/26-2-rendering-to-a-texture.md",
-    "docs/open-gl/4-advanced-open-gl/26-framebuffers/26-1-creating-a-framebuffer.md",
     "docs/open-gl/4-advanced-open-gl/26-framebuffers",
-    "docs/cmake/tutorial/2-language-fundamentals.md",
-    "docs/cmake/tutorial/1-getting-started.md",
     "docs/cmake/tutorial",
     "docs/cmake",
     "docs/cmake/tutorial/Untitled",
     "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-3-depth-buffer-visualisation.png",
     "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-2-graph.png",
     "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-2-non-linear-graph.png",
-    "docs/open-gl/4-advanced-open-gl/25-face-culling/Untitled",
-    "docs/open-gl/4-advanced-open-gl/25-face-culling/25-1-winding-order-cube.png",
-    "docs/open-gl/4-advanced-open-gl/25-face-culling/25-1-winding-order.png",
-    "docs/open-gl/4-advanced-open-gl/25-face-culling",
-    "docs/open-gl/4-advanced-open-gl/24-blending",
     "docs/open-gl/Untitled.canvas",
     "projects/two-years/dialogue-flow.canvas"
   ]
