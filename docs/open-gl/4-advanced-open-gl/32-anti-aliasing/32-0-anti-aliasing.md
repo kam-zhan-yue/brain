@@ -1,0 +1,3 @@
+Jagged edges can appear on renders due to how the rasteriser transforms the vertex data into actual fragments behind the scene. The effect of clearing seeing pixel formations an edge is composed of, is called aliasing. There are many anti-aliasing techniques that aim to produce smoother edges.
+
+Initially, there was super sample anti-aliasing (SSAA) that temporarily uses a much higher resolution render buffer to render the scene in (super sampling). Then when the full scene is rendered, the resolution is downsampled back to the normal resolution. This *extra* resolution was used to prevent the jagged edges. However, this has a major performance implication since we have to draw a lot more fragments than usual.
