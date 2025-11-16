@@ -32,3 +32,8 @@ Upon reading this article: https://note.com/catfist/n/ne002a1b615cf. The instruc
 - [ ] Keyboard Kit
 - [ ] Switches
 - [ ] Cable
+
+
+OK FIGURED IT OUT. This is the dream: https://www.youtube.com/watch?v=zcd_l9BTo0s&t=973s
+- [ ] Build a Keyball 44, use a long cable instead of wireless
+- [ ] Convert it to wireless after having much more experience!
