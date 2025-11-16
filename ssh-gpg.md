@@ -23,3 +23,12 @@ When using the SSH key, the passphrase is needed unless cached in `ssh-agent`.
 
 Additionally, SSH is annoying because you have to input your password everytime.
 
+You can change the remote URL with 
+```shell
+git rmeote set-url origin https://github.com/kam-zhan-yue/.config.git
+```
+
+## GPG
+Using GPG allows you to sign commits. To generate a GPG key, the machine needs to install GnuPG and a GPG key needs to be created.
+
+This GPG key is then added to the account and can be attached for signing. Since I use multiple machines and want to have different keys on each, I use a GPG key in the .gitconfig.local which is not tracked by git and set per machine :)
