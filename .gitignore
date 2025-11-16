@@ -4,3 +4,4 @@ hidden/
 .DS_Store
 passwords.md
 .obsidian/plugins/obsidian-excalidraw-plugin/
+.obsidian/workspace.json

@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b39b73f1b1891eae",
+            "id": "f5e838204a29faaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "passwords.md",
+                "file": "personal/planner/2025/weeks/2025-W46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "passwords"
+              "title": "2025-W46"
+            }
+          },
+          {
+            "id": "baf001c7472280e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-3-attenuation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "34-3-attenuation"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5bb8a8a937b0c24",
@@ -180,53 +195,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b39b73f1b1891eae",
+  "active": "f5e838204a29faaf",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "passwords.md",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-3-attenuation.md",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-3-attenuation-grid.png",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-2-srgb-textures.md",
+    "personal/planner/2025/weeks/2025-W46.md",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-2-textures.png",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-1-gamma-correction.md",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-0-gamma-summary.md",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-0-example.png",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-0-gamma.png",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction/34-0-brightness.png",
+    "docs/open-gl/4-advanced-open-gl/34-gamma-correction",
+    "docs/open-gl/4-advanced-open-gl/33-advanced-lighting/33-1-blinn-phone.md",
+    "docs/open-gl/4-advanced-open-gl/33-advanced-lighting/33-1-halfway-vector.png",
+    "docs/open-gl/4-advanced-open-gl/33-advanced-lighting/33-1-angles.png",
+    "docs/open-gl/4-advanced-open-gl/33-advanced-lighting/33-1-breakdown.png",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-2-multisampling-open-gl.md",
+    "docs/open-gl/4-advanced-open-gl/33-advanced-lighting",
+    "docs/open-gl/Untitled.md",
+    "personal/goals/11-november.md",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-4-custom-anti-aliasing.md",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-3-off-screen-mssa.md",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-1-multisampling.md",
+    "personal/goals/10-october.md",
+    "docs/bash/15-custom-commands.md",
+    "docs/bash/11-conditionals.md",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-1-multi-rendered.png",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-1-multi-sample-points.png",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing/32-0-anti-aliasing.md",
+    "docs/open-gl/4-advanced-open-gl/31-instancing/31-2-asteroid-field.md",
+    "docs/open-gl/4-advanced-open-gl/32-anti-aliasing",
     "docs/open-gl/4-advanced-open-gl/31-instancing/31-1-instanced-arrays.md",
+    "passwords.md",
+    "personal/planner/2025/weeks/2025-W26.md",
+    "Untitled 2.md",
     "docs/open-gl/4-advanced-open-gl/32-asteroid-field",
     "docs/open-gl/4-advanced-open-gl/31-instancing/31-0-instancing.md",
     "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-4-visualising-normal-vectors.md",
     "docs/open-gl/4-advanced-open-gl/31-instancing",
     "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-3-exploding-objects.md",
     "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-1-using-geometry-shaders.md",
-    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-houses.md",
-    "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-1-batching-vertex-attributes.md",
-    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-house.png",
-    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-2-triangle-strip.png",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-1-glsl-built-in.md",
-    "personal/planner/2025/weeks/2025-W46.md",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-1-creating-a-cubemap.md",
-    "docs/open-gl/4-advanced-open-gl/30-geometry-shader/30-0-geometry-shader.md",
-    "docs/open-gl/extra-reading.md",
-    "Untitled 1.md",
     "docs/open-gl/4-advanced-open-gl/30-geometry-shader",
-    "personal/planner/2025/weeks/2025-W45.md",
-    "Untitled.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-8.simple-example.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-7-using-uniform-buffers.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-7-binding-points.png",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-6-uniform-block-layout.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-5-uniform-buffer-objects.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-4-interface-blocks.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-3-fragment-shader-variables.md",
-    "docs/open-gl/4-advanced-open-gl/29-advanced-glsl/29-2-vertex-shader-variables.md",
     "docs/open-gl/4-advanced-open-gl/29-advanced-glsl",
-    "docs/open-gl/4-advanced-open-gl/28-advanced-data/28-2-copying-buffers.md",
     "docs/open-gl/4-advanced-open-gl/28-advanced-data",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-6-refraction.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-6-reflection.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-2-skybox.png",
-    "docs/open-gl/4-advanced-open-gl/27-cubemaps/27-1-cubemap.png",
     "docs/open-gl/4-advanced-open-gl/27-cubemaps",
     "docs/open-gl/4-advanced-open-gl/26-framebuffers",
-    "docs/cmake/tutorial",
-    "docs/cmake",
-    "docs/cmake/tutorial/Untitled",
-    "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-3-depth-buffer-visualisation.png",
-    "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-2-graph.png",
-    "docs/open-gl/4-advanced-open-gl/22-depth-testing/22-2-non-linear-graph.png",
     "docs/open-gl/Untitled.canvas",
     "projects/two-years/dialogue-flow.canvas"
   ]
