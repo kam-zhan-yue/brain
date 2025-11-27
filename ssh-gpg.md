@@ -32,3 +32,29 @@ git rmeote set-url origin https://github.com/kam-zhan-yue/.config.git
 Using GPG allows you to sign commits. To generate a GPG key, the machine needs to install GnuPG and a GPG key needs to be created.
 
 This GPG key is then added to the account and can be attached for signing. Since I use multiple machines and want to have different keys on each, I use a GPG key in the .gitconfig.local which is not tracked by git and set per machine :)
+
+### COMMON ERRORS
+I ran into an issue where running `git commit -m -S` gave me an unhelpful error.
+```shell
+❯ git commit -m "test"
+error: gpg failed to sign the data
+fatal: failed to write commit object
+```
+
+However, `jj` revealed more detailed logs.
+```shell
+➜ jj git push
+Internal error: Unexpected error from backend
+Caused by:
+1: Could not write object of type commit
+2: Signing error
+3: GPG failed with exit status: 2:
+gpg: signing failed: Screen or window too small
+gpg: signing failed: Screen or window too small
+```
+
+Upon investigation, [it was due to the password entry daemon](https://github.com/kovidgoyal/kitty/issues/6018#issuecomment-2495642902). We can fix it by doing
+```shell
+gpgconf --kill gpg-agent
+gpgconf --launch gpg-agent
+```
