@@ -1,5 +1,10 @@
 [See documentation here](https://uptickhq.atlassian.net/wiki/spaces/ENGINEER/pages/2425389067/Dockerless+local+development)
 
+Running tests
+```shell
+`DJANGO_SETTINGS_MODULE=abas.settings.runtests python manage.py test --keepdb`
+```
+
 Backend format and checking
 ```bash
 ruff format
@@ -59,6 +64,16 @@ createdb aesg
 
 
 ## Issues
+## Errno 48: Address already in use
+We first need to find the rogue process, then kill it.
+```
+ps -a
+```
+
+Locate anything that seems related then do
+```
+kill -9 PID
+```
 
 ### Is the server running on that host and accepting TCP/IP?
 
@@ -70,7 +85,7 @@ psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 
 
 [Solutions are discussed here](https://stackoverflow.com/questions/37307346/is-the-server-running-on-host-localhost-1-and-accepting-tcp-ip-connections)
 
-Try to (i did not find a solution)
+**Solution**: Most likely `postgresql` is errored or hasn't started.
 
 
 Do

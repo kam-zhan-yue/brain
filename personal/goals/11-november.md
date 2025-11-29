@@ -1,8 +1,8 @@
 ## Personal
 - [ ] Hollow Knight: Silksong 100%
 ## Career
-- [ ] Release Routine Editor
-- [ ] React Query Everything
+- [x] Release Routine Editor
+- [x] React Query Everything
 - [ ] Tanstack Typesafety
 ## Learning
 - [ ] Complete Learn Open GL
@@ -13,7 +13,7 @@
 	- [ ] Remove Cryptroot on volgroup0
 	- [ ] Learn Docker
 ## Fitness
-- [ ] Run 5x per week (3km)
-- [ ] Bouldering 3x per week
+- [x] Run 5x per week (3km)
+- [x] Bouldering 3x per week
 ## Travel
-- [ ] Kyushu Trip
+- [x] Kyushu Trip

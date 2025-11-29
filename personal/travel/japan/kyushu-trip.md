@@ -6,30 +6,32 @@ Prefectures:
 - Oita
 - Kagoshima
 
-### 20th November
+## Packing
+Need to pack for 
+- 20th November night
+- 21st November day
+- 22nd November day
+- 22nd November Night (laundry)
+- 23rd November day
+- 24th November day
+- 25th November day
 
-### 21st Novem
+Hence need to pack enough for 3 days
 
-20th November - 25th November (6 days)
-- 20th November (Thursday)
-	- Morning: Work
-	- Evening: Flight to Nagasaki
-	- Stay overnight in Nagasaki
-- 21st November (Friday)
-	- Explore Nagasaki
-	- Stay overnight in Nagasaki
-- 22nd November (Saturday)
-	- Train to Kumamoto
-	- Explore Kumamoto
-	- Stay overnight in Kumamoto
-- 23rd November (Sunday)
-	- Train to Fukuoka
-	- Explore Fukuoka
-	- Stay overnight in Fukuoka
-- 24th November (Monday)
-	- Train to Beppu
-	- Explore Beppu
-	- Stay overnight in Beppu / Oita
-- 25th November (Tuesday)
-	- Chill in Beppu
-	- Flight to Osaka in the morning
+To Wear:
+- [x] Underwear x1
+- [x] Socks x1
+- [x] Pants x1
+- [x] Inner Shirt x1
+- [x] Outer Long-Sleeve Shirt x1
+- [ ] Hoodie / Jacket x1
+
+To Pack:
+- [x] Underwear x3
+- [x] Socks x3
+- [x] Night Shirt x1
+- [x] Inner Shirt x2
+- [x] Outer Long-Sleeve Shirt x1
+- [ ] Wallet, Phone
+- [ ] Laptop + Charger
+- [ ] USB-C + Lightning Cable
