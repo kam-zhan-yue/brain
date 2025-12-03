@@ -2,7 +2,7 @@
 
 Running tests
 ```shell
-`DJANGO_SETTINGS_MODULE=abas.settings.runtests python manage.py test --keepdb`
+DJANGO_SETTINGS_MODULE=abas.settings.runtests python manage.py test --keepdb
 ```
 
 Backend format and checking
