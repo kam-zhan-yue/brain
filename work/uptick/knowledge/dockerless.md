@@ -132,4 +132,14 @@ postgresql@14
 
 ```
 
-It seems like symlinking it doesn't work. So we will need to 
+- [ ] It seems like symlinking it doesn't work. So we will need to 
+
+## New Database
+```shell
+createdb develop
+psql --username=$USER develop < var/develop/dump
+```
+
+Then change the value in .env
+
+> NOTE: I still can't figure out how to make it not use 'workforce'
