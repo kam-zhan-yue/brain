@@ -3,7 +3,7 @@
 ## Career
 - [x] Release Routine Editor
 - [x] React Query Everything
-- [ ] Tanstack Typesafety
+- [x] Tanstack Typesafety
 ## Learning
 - [ ] Complete Learn Open GL
 - [ ] C++ Terminal Application for Advent of Code

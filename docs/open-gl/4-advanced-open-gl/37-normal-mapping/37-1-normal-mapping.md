@@ -23,4 +23,16 @@ With normal vectors transformed to an RGB colour component, we can store a per-f
 
 Almost all normal maps have a blueish tine because the normals are closely pointing outwards to the positive z-axis (0, 0, 1): a blue-ish colour. The deviations in colour represent normal vectors that are slightly offset from the general positive z direction, giving a sense of depth to the texture.
 
-With a simple plane, looking at the positive z-axis, we can take a diffuse texture and a normal map to render the image from the previous section. The linked normal map is different from the one shown above. The reason for this is that OpenGL reads texture coordinates with the y coordinate reversed from how the textures are generally created. The linked normal map thus has its y (or green) component inversed. If you fail to take this into account, **the lighting will be incorect**.
+With a simple plane, looking at the positive z-axis, we can take a diffuse texture and a normal map to render the image from the previous section. The linked normal map is different from the one shown above. The reason for this is that OpenGL reads texture coordinates with the y coordinate reversed from how the textures are generally created. The linked normal map thus has its y (or green) component inversed. If you fail to take this into account, **the lighting will be incorrect**.
+
+## Issue with Normal Maps
+
+There is one issue that greatly limits this use of normal maps. The normal map we used had normal vectors that all pointed somewhat in the positive z direction. This worked because the plane's surface normal was also pointing in the positive z direction. However, what would happen if we used the same normal map on a plane laying on the ground with a surface normal vector pointing the positive y direction?
+
+![[Screenshot 2025-12-14 at 11.57.41 PM.png]]
+
+The sampled normals of the plane still roughly point in the positive z direction even though they should mostly point in the positive y direction. As a result, the lighting thinks the surface's normals are the same as before when the plan was pointing towards the positive z direction; the lighting is incorrect.
+
+All the normals point somewhat in the positive z direction even though they should be pointing towards the positive y direction. One solution is ot define a normal map for each possible direction of the surface, but this becomes infeasible for complex meshes.
+
+Instead, we can do all the lighting in a different coordinate space: a coordinate space where the normal map vectors always point towards the positive z direction. All other lighting vectors are then transformed relative to this positive z direction. This way we can always use the same normal map, regardless of orientation. This coordinate space is known as the tangent space.

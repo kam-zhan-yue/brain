@@ -18,3 +18,9 @@ This command will start the rebase process and automatically resolve any conflic
 ```
 git rebase main -Xtheirs
 ```
+
+## Removing Cached Files
+
+```
+git rm --cached .idea
+```
