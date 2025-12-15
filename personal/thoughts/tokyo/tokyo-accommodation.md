@@ -72,3 +72,8 @@ Another thing I learned
 To send with bookings
 国籍はオーストラリアです。現在京都に住んでいますが1月に東京に行くつもりです。
 今年卒業生であり、仕事のため2026年2月下旬か3月上旬に東京に引っ越す予定があります。
+
+For one place
+- I can show them a list of places that they also monitor
+- Group in all-together and see properties
+- 5th January: 10am - 12pm
