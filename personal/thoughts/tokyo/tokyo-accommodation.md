@@ -68,3 +68,7 @@ Another thing I learned
 - I will have to submit an application and settle on a date
 - Submit as many as possible, most likely will get rejected
 - Don't setup appointments on phone, it's not the best way
+
+To send with bookings
+国籍はオーストラリアです。現在京都に住んでいますが1月に東京に行くつもりです。
+今年卒業生であり、仕事のため2026年2月下旬か3月上旬に東京に引っ越す予定があります。
