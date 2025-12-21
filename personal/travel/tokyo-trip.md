@@ -21,15 +21,16 @@ Timing:
 - 10am: アエラス
 	- Can send properties listed on other companies, show them on the day
 - Meet with Raph?
-
+- 4pm: PeerHome
+- Meet with Ase
 ### Tuesday 6th January
+- 10am: ハウスメイト
 - 1pm: ソレイユ
 - Meet with Jun
 ### Wednesday 7th January
 - 10am: エーアイアール
 - 1pm: シエル
-- Meet with Ase
-
+- Return Home
 ### Prospective
 - Need to arrange with ハウスメイト
 - Need to arrange with PeerHome
