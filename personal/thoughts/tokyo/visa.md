@@ -11,3 +11,9 @@ Visited the 区役所 in September, but the MyNumber card mail to book my appoin
 
 ### Things to Do
 - [ ] Call the 区役所
+
+## Required Documents
+- [ ] Application for Change of Status
+- [ ] Photo
+- [ ] Passport and Residence Card
+- [ ] Stock Exchange Document
