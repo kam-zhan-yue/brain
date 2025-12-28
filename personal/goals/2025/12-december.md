@@ -1,7 +1,7 @@
 ## Personal
-- [ ] Hollow Knight: Silksong
-- [ ] Other Games
-- [ ] Find Tokyo Accomodation
+- [x] Hollow Knight: Silksong
+- [x] Other Games
+- [x] Find Tokyo Accomodation
 ## Career
 - [x] Three Card Layout
 ## Learning
@@ -11,10 +11,16 @@
 	- [ ] Dark Mode
 	- [ ] Remove Cryptroot on volgroup0
 	- [ ] Learn Docker
-- [ ] Rust Project: CLI Tool, Advent of Code
-- [ ] C++: OpenGL
-- [ ] C#: Advent of Code
+- [x] Rust Project: CLI Tool, Advent of Code
+- [x] C++: OpenGL
+- [ ] Rust: Advent of Code
 - [ ] Typescript: 
 ## Fitness
 - [x] Run 5x per week (3km)
 - [x] Bouldering 3x per week
+
+## Wishlist
+- [ ] Keyboard Accessories
+	- [ ] Cables (USB-C, TRRS)
+	- [ ] Keyboard Case
+	- [ ] Keycaps
