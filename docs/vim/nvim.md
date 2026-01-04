@@ -40,3 +40,16 @@ Then, open a file and check
 ```
 :checkhealth vim.lsp
 ```
+
+### Roslyn Language Server
+
+It seems like too much of a pain to setup Roslyn manually. Hence, we will use roslyn.nvim
+
+1. Install roslyn via Mason
+2. Install dotnet-sdk with homebrew
+If you have a 
+```
+You must install or update .NET
+```
+
+Then the dotnet runtimes between roslyn and dotnet are not compatible.
