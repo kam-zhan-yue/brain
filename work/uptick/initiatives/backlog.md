@@ -18,3 +18,11 @@
 - [x] Missing route in Assume Identity > Continue on as Uptick Customer Support
 - [x] Uplift RoutineEditor to SPA
 - Clicking Mark Task as Complete or Archive Task in Dispatch Create fetches emails again
+
+## Work
+- [ ] Allow Stock to be Selected Before moving off task
+
+ES Build Bundle Size Analyser
+- Check ESBuild workflow
+- See how to use the analyser
+- Send to metrics
