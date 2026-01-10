@@ -1,0 +1,3 @@
+DeNA has a meetup on the 28th of February. This would be a great time to go and set things up. I could go on the 27th, then set things up from there and return a little later 
+
+Then there is the 入社式, but that will probably be in late March. Either ways, I want to make as little trips to Tokyo as possible. It might not be worth it to lock myself into a contract so early if I need to move in late February.
