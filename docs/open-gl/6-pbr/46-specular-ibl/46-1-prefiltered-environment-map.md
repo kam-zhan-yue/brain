@@ -59,13 +59,12 @@ This is an acceptable tradeoff in computer graphics. Monte Carlo integration is 
 - Generate N amount of random samples
 - Sum and weigh every sample contribution to the final result
 
-### Generating N  Random Samples
+### Generating N Random Samples
 There are multiple ways of generating the random samples. By default, each sample is completely random, but by utilising certain properties of semi-random sequences, we can generate sample vectors that are still random, but have interesting properties. For instance, we can do Monte Carlo integration on **low-discrepancy sequences**, which still generate random samples, but each sample is more evenly distributed.
 
 ![[46-1-low-discrepancy-sequences.png]]
 
 When using a low-discrepancy sequence for generating the Monte Carlo sample vectors, the process is known as Quasi-Monte Carlo integration. These have a faster rate of convergence, which makes them interesting for performance heavy applications.
-
 ### Importance Sampling
 We can use a technique known as importance sampling to achieve an even faster rate of convergence. When it comes to specular reflections, the reflected light vectors are constrained in a specular lobe with its size determined by the roughness of the surface. Seeing as any (quasi-)randomly generated sample outside the specular lobe isn't relevant to the specular integral, we can discard them.
 
@@ -92,7 +91,7 @@ float RadicalInverse_VdC(uint bits) {
      return float(bits) * 2.3283064365386963e-10; // / 0x100000000
 }
 
-float Hammersley(uint i, uint N) {
+vec2 Hammersley(uint i, uint N) {
   return vec2(float(i) / float(N), RadicalInverse_VdC(i));
 }
 ```
@@ -219,4 +218,9 @@ What's left to do is to let OpenGL pre-filter the environment map with different
   }
 ```
 
-The process is similar to the irradiance map
+- The process is similar to the irradiance map convolution, but this time we scale the framebuffer's dimensions to the appropriate mipmap scale. Each mipmap reduces the dimensions by a scale of 2.
+- We also specify the mip level we're rendering to in `glFramebufferTexture2D`'s last parameter and pass the roughness we're pre-filtering for to the shader.
+
+This should give us a properly pre-filtered environment map that returns blurrier reflections the higher mip level we access it from. If we use the pre-filtered environment map in the skybox shader and forcefully sample above its first mip level, we get something that looks like the blurrier version of the original environment. 
+
+![[46-1-prefilter-map.png]]
