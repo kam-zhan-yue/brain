@@ -77,3 +77,68 @@ For one place
 - I can show them a list of places that they also monitor
 - Group in all-together and see properties
 - 5th January: 10am - 12pm
+
+### Current Options
+
+### ルーブル武蔵小杉701号室
+- 家賃：9.4万円
+- 構造：鉄筋コン
+- 20.38m^2
+- 7 minutes from the station
+- Notes:
+	- Amazing kitchen
+	- Slightly cramped hallway layout, but seems pretty cozy
+	- Good amount of windows
+	- Not too much storage space
+	- The bedroom might feel a bit cramped
+- 初期費
+	- 礼金：１ヶ月
+	- 保険会社：47,000円
+	- 鍵交換費用：33,000円
+	- ルームクリーニング代：60,000円
+	- 安心入居サポート：16,500円
+	- 抗菌代：16,500円
+Total: 267,000円
+
+Would have to move in early February
+### リブリじんや陣屋302号室
+- 家賃：8.9万円 (plus 2,200円 monthly fee)
+- 構造：鉄骨
+- 22.4m^2
+- 16 mins from the station
+- Notes:
+	- Kitchen is spacious, but is IH
+	- The personal sink is outside of the bathroom? Weird
+	- Right next to the park and river, great for cycling and running
+- 初期費：
+	- 礼金：２ヶ月
+	- Natural Disaster Fee?: 19,000円
+	- 鍵交換代：24,200円
+	- Some other fee?:  16,500円
+	- クリーニング代：36,300円
+	- Club Fee?: 7,700円
+Total:  281,700円
+
+Would have to move in late February
+
+The difference is one month, but the move in costs are around the same. Which means I would have to spend an extra month.
+
+However, I want to make two trips only:
+- 28th February for the DeNA thing + Change in residence card, etc
+- Late March for actually living there
+- So it makes more sense to go with the second option
+- The difference is still one month of rent regardless
+- The first option is good because it is closer to the station and is made of a better material
+
+After one year, the difference would be around
+- 12 * 3000 = 3.6万円
+- February Rent: 9.4万円
+- 13万円
+- Is this worth the extra 9 min walk to and from every day?
+- That adds up to 78 hours holy shit.
+
+78 x 20 is just around the same amount.
+
+I definitely have enough savings for this, but is it really worth it?
+
+If I end up paying for bike parking, then it really adds up
