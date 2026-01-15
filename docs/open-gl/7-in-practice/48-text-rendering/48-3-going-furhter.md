@@ -1,0 +1,5 @@
+FreeType is flexible, scalable, and works with many character encodings. However, this approach is likely to be overkill for your application as we generate and render textures for each glyph. Performance-wise, bitmap fonts are preferable as we only need one texture for all our glyphs.
+
+The best approach would be to combine the two approaches by dynamically generating a bitmap font texture featuring all character glyphs as loaded with FreeType. This saves the renderer from a significant amount of texture switches, and based on how tight each glyph is packed, could save performance.
+
+Another issue with FreeType font bitmaps is that the glyph textures are stored with a fixed font size, so a significant amount of scaling may introduce jagged edges. Furthermore, rotations applied to the glyphs will cause them to appear blurry. This can be mitigated by storing the distance to the closest glyph outline per pixel as opposed to storing the rasterised pixel colours. This technique is known as **signed distance field fonts**.
