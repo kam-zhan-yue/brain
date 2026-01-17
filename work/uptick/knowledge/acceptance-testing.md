@@ -1,3 +1,4 @@
+## Redis Connection Refused
 I encountered this error a lot:
 
 ```python
@@ -21,4 +22,11 @@ docker compose build
 docker compose up -d
 ```
 
-Then, running the acceptance tests worked...
+## `test_postgres` does not exist
+This comes from `reset_db.sql`. There is an excerpt in `start/acceptance` that does:
+
+```shell
+x docker compose exec db psql postgres://postgres@db/postgres -f /reset_db.sql
+```
+
+Ok this is too fucking hard and time-consuming.
