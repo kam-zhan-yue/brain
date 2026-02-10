@@ -14,6 +14,7 @@ Bedroom
 - [ ] Dish Soap + Sponge
 - [ ] Vacuum Cleaner (Recycle Shop)
 - [ ] Tissue Paper
+- [ ] Laundry Hamper
 
 Bathroom
 - [ ] Hair Dryer (Recycle Shop)
@@ -53,6 +54,7 @@ Cleaning Supplies
 - [ ] Toilet Paper
 - [ ] Ziploc Bags
 - [ ] Disinfectant Wipes / Cleaning Wipes
+- [ ] Laundry Detergent + Fabric Softener
 
 ### 武蔵小杉店
 
