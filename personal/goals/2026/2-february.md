@@ -9,6 +9,7 @@
 - [ ] Godot: Kuwahara Shader
 - [ ] Godot: ASCII Shader
 - [ ] Rework Personal Project and add Blogs section
+- [ ] Blender: Start Learning
 ## Fitness
 - [ ] Running: 4x 3km per week
 - [ ] Running: 1x 大文字 per week

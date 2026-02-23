@@ -1,0 +1,3 @@
+My current site is just React. However, it is poorly optimised for static content and I want the ability to add blog posts and documentation easily. Ideally I have a page for my work, games, blog posts, etc. I want this to be super simple and I want to control where it is deployed, etc. Ideally using docker. I think I don't need a webapp, but some static site is good.
+
+I also want to explore frameworks that help to deliver content heavy sites.

@@ -20,29 +20,34 @@ What are the essential things I need for moving in?
 
 ## Initial Move-in (<27th Feb)
 
+## Shopping Trips
+- Recycle Shop
+- Daiso / 212 Kitchen Supply / Muji
+- Sugi Drug
+
 Bedroom
-- [ ] Mattress + Bed Sheet (Online - Nitori)
-- [ ] Bed Frame (Online - NItori)
-- [ ] Futon (Online - Nitori)
+- [x] Mattress (Online - Nitori)
+- [x] Bed Frame (Online - NItori)
+- [x] Futon + Set (Online - Nitori)
 - [ ] Desk / Kotatsu (Online - Nitori)
 - [ ] Chair (Online - Nitori)
-- [ ] 2x Blanket + Blanket Covers
-- [ ] 2x Pillows + Pillow Cases
+- [x] 1x Bed Sheet + Pillow Case (Online - Nitori)
+- [x] Blanket + Blanket Covers
+- [ ] Pillow (Nitori)
 - [ ] Lamp + Lightbulb
 - [ ] Dish Soap + Sponge
 - [ ] Vacuum Cleaner (Recycle Shop)
 - [ ] Tissue Paper
 - [ ] Laundry Hamper
+- [ ] Drying Rack
 
 Bathroom
 - [ ] Hair Dryer (Recycle Shop)
 - [ ] Washing Machine + Dryer (Recycle Shop)
 - [ ] Cabinet (Recycle Shop)
 - [ ] 2x Bath Towels + Face Towels + Hand Towels
-- [ ] Toilet Paper
-- [ ] Curtains
-- [ ] Kitchen Scissors
-- [ ] General Scissors
+- [ ] Kitchen Scissors (Daiso / 212 Kitchen Supply)
+- [ ] General Scissors (Daiso / 212 Kitchen Supply)
 - [ ] Shampoo + Body Soap Dispensers + Refills
 - [ ] Toothbrush Holder
 
@@ -51,31 +56,30 @@ Kitchen
 - [ ] Rice Cooker (Recycle Shop)
 - [ ] MIcrowave (Recycle Shop)
 - [ ] Toaster (Recycle Shop)
-- [ ] Kettle
-- [ ] 2x Plates, Bowls, Glasses, Mugs
-- [ ] 2x Cutlery Sets + Chopsticks
-- [ ] Spatula
-- [ ] Wooden Spoon
-- [ ] Chopping Knife + Paring Knife
-- [ ] Frying Pan + Pot
-- [ ] Hand Soap Dispenser + Refills
-- [ ] Colander
-- [ ] Ice Cube Tray
+- [ ] Kettle (Recycle Shop)
+- [ ] 2x Plates, Bowls, Glasses, Mugs (Daiso / 212 Kitchen Supply)
+- [ ] 2x Cutlery Sets + Chopsticks (Daiso / 212 Kitchen Supply)
+- [ ] Spatula (Daiso / 212 Kitchen Supply)
+- [ ] Wooden Spoon (Daiso / 212 Kitchen Supply)
+- [ ] Chopping Knife + Paring Knife (Daiso / 212 Kitchen Supply)
+- [ ] Frying Pan + Pot (Online)
+- [ ] Hand Soap Dispenser + Refills (Sugi Drug)
+- [ ] Colander (Daiso / 212 Kitchen Supply)
+- [ ] Ice Cube Tray (Daiso / 212 Kitchen Supply)
 
 Cleaning Supplies
-- [ ] Sponges
-- [ ] Toilet Bowl Brush
-- [ ] Rubbish Bin
-- [ ] Multipurpose Cleaner
-- [ ] Paper Towels
-- [ ] Garbage Bags
-- [ ] Toilet Paper
-- [ ] Ziploc Bags
-- [ ] Disinfectant Wipes / Cleaning Wipes
-- [ ] Laundry Detergent + Fabric Softener
+- [ ] Sponges (Sugi Drug)
+- [ ] Toilet Bowl Brush (Daiso)
+- [ ] Rubbish Bin (Online)
+- [ ] Multipurpose Cleaner (Sugi Drug)
+- [ ] Paper Towels (Sugi Drug)
+- [ ] Garbage Bags (Sugi Drug)
+- [ ] Toilet Paper (Sugi Drug)
+- [ ] Ziploc Bags (Sugi Drug)
+- [ ] Disinfectant Wipes / Cleaning Wipes (Sugi Drug)
+- [ ] Laundry Detergent + Fabric Softener (Sugi Drug)
 
 ### 武蔵小杉店
 
 [MUJI Grand Tree](https://maps.app.goo.gl/hV2tLNP4JLgJKfjZ6)
 [リサイクルリサイクルショップ新丸子店](https://maps.app.goo.gl/RBr4k987sMJeM7Q58)
-	

@@ -5,7 +5,7 @@
 - [x] Uptick: Finalise Route Generation
 - [ ] Uptick: Update Tanstack Router
 - [ ] DeNA: Create a Webapp Template
-- [ ] Indie: Early game concepts / brainstorming
+- [x] Indie: Early game concepts / brainstorming
 ## Projects
 - [x] C# and Rust: Advent of Code
 - [x] Godot: Mobius Shader
