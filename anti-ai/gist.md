@@ -18,6 +18,8 @@
 
 [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 
+[Extracting books from production language models](https://arxiv.org/abs/2601.02671)
+
 ### Concerning Usage
 
 [White House Health Report Included Fake Citations](https://www.nytimes.com/2025/05/29/well/maha-report-citations.html)

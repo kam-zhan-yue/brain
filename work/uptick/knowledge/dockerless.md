@@ -1,4 +1,4 @@
-[See documentation here](https://uptickhq.atlassian.net/wiki/spaces/ENGINEER/pages/2425389067/Dockerless+local+development)
+See documentation here](https://uptickhq.atlassian.net/wiki/spaces/ENGINEER/pages/2425389067/Dockerless+local+development)
 
 Running tests
 ```shell
@@ -59,7 +59,7 @@ createdb aesg
 ```
 
 ```
-`psql --username=$USER workforce < database_dump_file_path`
+psql --username=$USER workforce < database_dump_file_path
 ```
 
 

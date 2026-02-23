@@ -1,3 +1,21 @@
+## Services
+- Softbank Hikari (Internet): 27th Feb 1pm - 5pm
+- Tokyuu Power (Electricity): Turns on by itself 27th Feb
+- Tokyo Gas (Gas): 27th Feb 3pm - 5pm
+- Kawasaki Suido (Water): Turns on by itself 27th Feb
+
+> 新しいアパートへの入居に関して電話しました。
+> 水道を使えるために、入居日の３日間前までに電話するように言われました。
+> これは正しいでしょうか？
+
+Tokyo Address
+211-0011
+神奈川県川崎市中原区下沼部1700-23
+ルーブル武蔵小杉701号室
+Kanagawa-ken, Kawasaki-shi, Nakahara-ku, Shimonumabe
+
+
+
 What are the essential things I need for moving in?
 
 ## Initial Move-in (<27th Feb)

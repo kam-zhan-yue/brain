@@ -20,7 +20,7 @@
 - Clicking Mark Task as Complete or Archive Task in Dispatch Create fetches emails again
 
 ## Work
-- [ ] Allow Stock to be Selected Before moving off task
+- [x] Allow Stock to be Selected Before moving off task
 
 ES Build Bundle Size Analyser
 - Check ESBuild workflow
