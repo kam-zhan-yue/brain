@@ -1,5 +1,5 @@
 ## Services
-- Softbank Hikari (Internet): 27th Feb 1pm - 5pm
+ Softbank Hikari (Internet): 27th Feb 1pm - 5pm
 - Tokyuu Power (Electricity): Turns on by itself 27th Feb
 - Tokyo Gas (Gas): 27th Feb 3pm - 5pm
 - Kawasaki Suido (Water): Turns on by itself 27th Feb
@@ -13,8 +13,6 @@ Tokyo Address
 神奈川県川崎市中原区下沼部1700-23
 ルーブル武蔵小杉701号室
 Kanagawa-ken, Kawasaki-shi, Nakahara-ku, Shimonumabe
-
-
 
 What are the essential things I need for moving in?
 
@@ -34,10 +32,9 @@ Bedroom
 - [x] 1x Bed Sheet + Pillow Case (Online - Nitori)
 - [x] Blanket + Blanket Covers
 - [ ] Pillow (Nitori)
-- [ ] Lamp + Lightbulb
 - [ ] Dish Soap + Sponge
 - [ ] Vacuum Cleaner (Recycle Shop)
-- [ ] Tissue Paper
+- [x] Tissue Paper
 - [ ] Laundry Hamper
 - [ ] Drying Rack
 
@@ -48,7 +45,7 @@ Bathroom
 - [ ] 2x Bath Towels + Face Towels + Hand Towels
 - [ ] Kitchen Scissors (Daiso / 212 Kitchen Supply)
 - [ ] General Scissors (Daiso / 212 Kitchen Supply)
-- [ ] Shampoo + Body Soap Dispensers + Refills
+- [x] Shampoo + Body Soap Dispensers + Refills
 - [ ] Toothbrush Holder
 
 Kitchen
@@ -68,16 +65,22 @@ Kitchen
 - [ ] Ice Cube Tray (Daiso / 212 Kitchen Supply)
 
 Cleaning Supplies
-- [ ] Sponges (Sugi Drug)
+- [x] Sponges (Sugi Drug)
 - [ ] Toilet Bowl Brush (Daiso)
 - [ ] Rubbish Bin (Online)
-- [ ] Multipurpose Cleaner (Sugi Drug)
-- [ ] Paper Towels (Sugi Drug)
-- [ ] Garbage Bags (Sugi Drug)
-- [ ] Toilet Paper (Sugi Drug)
-- [ ] Ziploc Bags (Sugi Drug)
-- [ ] Disinfectant Wipes / Cleaning Wipes (Sugi Drug)
 - [ ] Laundry Detergent + Fabric Softener (Sugi Drug)
+- [ ] Glass Cleaner
+- [x] Multipurpose Cleaner (Sugi Drug)
+- [x] Toilet Bowl Cleaner
+- [x] Paper Towels (Sugi Drug)
+- [x] Garbage Bags (Sugi Drug)
+- [x] Toilet Paper (Sugi Drug)
+- [x] Ziploc Bags (Sugi Drug)
+- [x] Disinfectant Wipes / Cleaning Wipes (Sugi Drug)
+- [x] General Towels
+- [x] Shampoo + Soap + Conditioner
+- [x] Tooth Paste
+- [x] Sink Nets
 
 ### 武蔵小杉店
 

@@ -1,0 +1,2 @@
+- Deployments: Vercel Hobby Plan
+- Domain Name: name.com (i didn't know you could do this in vercel........)

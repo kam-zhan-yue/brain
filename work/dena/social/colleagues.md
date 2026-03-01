@@ -1,5 +1,5 @@
 ## Kansai
-- Ryoji: Long hair Vim user
+- Ryuji: Long hair Vim user
 - Masa: Rugby player
 - Toyoshima: Nerdy Vim user
 - Yamazon: Watched baseball with this dude, plays football
