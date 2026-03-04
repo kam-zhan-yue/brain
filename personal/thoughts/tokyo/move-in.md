@@ -27,48 +27,48 @@ Bedroom
 - [x] Mattress (Online - Nitori)
 - [x] Bed Frame (Online - NItori)
 - [x] Futon + Set (Online - Nitori)
-- [ ] Desk / Kotatsu (Online - Nitori)
-- [ ] Chair (Online - Nitori)
+- [x] Desk / Kotatsu (Online - Nitori)
+- [x] Chair (Online - Nitori)
 - [x] 1x Bed Sheet + Pillow Case (Online - Nitori)
 - [x] Blanket + Blanket Covers
-- [ ] Pillow (Nitori)
-- [ ] Dish Soap + Sponge
-- [ ] Vacuum Cleaner (Recycle Shop)
+- [x] Pillow (Nitori)
+- [x] Dish Soap + Sponge
+- [x] Vacuum Cleaner (Recycle Shop)
 - [x] Tissue Paper
-- [ ] Laundry Hamper
-- [ ] Drying Rack
+- [x] Laundry Hamper
+- [x] Drying Rack
 
 Bathroom
-- [ ] Hair Dryer (Recycle Shop)
-- [ ] Washing Machine + Dryer (Recycle Shop)
-- [ ] Cabinet (Recycle Shop)
-- [ ] 2x Bath Towels + Face Towels + Hand Towels
-- [ ] Kitchen Scissors (Daiso / 212 Kitchen Supply)
-- [ ] General Scissors (Daiso / 212 Kitchen Supply)
+- [x] Hair Dryer (Recycle Shop)
+- [x] Washing Machine + Dryer (Recycle Shop)
+- [x] Cabinet (Recycle Shop)
+- [x] 2x Bath Towels + Face Towels + Hand Towels
+- [x] Kitchen Scissors (Daiso / 212 Kitchen Supply)
+- [x] General Scissors (Daiso / 212 Kitchen Supply)
 - [x] Shampoo + Body Soap Dispensers + Refills
-- [ ] Toothbrush Holder
+- [x] Toothbrush Holder
 
 Kitchen
-- [ ] Fridge (Recycle Shop)
-- [ ] Rice Cooker (Recycle Shop)
-- [ ] MIcrowave (Recycle Shop)
+- [x] Fridge (Recycle Shop)
+- [x] Rice Cooker (Recycle Shop)
+- [x] MIcrowave (Recycle Shop)
 - [ ] Toaster (Recycle Shop)
-- [ ] Kettle (Recycle Shop)
+- [x] Kettle (Recycle Shop)
 - [ ] 2x Plates, Bowls, Glasses, Mugs (Daiso / 212 Kitchen Supply)
-- [ ] 2x Cutlery Sets + Chopsticks (Daiso / 212 Kitchen Supply)
-- [ ] Spatula (Daiso / 212 Kitchen Supply)
-- [ ] Wooden Spoon (Daiso / 212 Kitchen Supply)
-- [ ] Chopping Knife + Paring Knife (Daiso / 212 Kitchen Supply)
-- [ ] Frying Pan + Pot (Online)
-- [ ] Hand Soap Dispenser + Refills (Sugi Drug)
-- [ ] Colander (Daiso / 212 Kitchen Supply)
-- [ ] Ice Cube Tray (Daiso / 212 Kitchen Supply)
+- [x] 2x Cutlery Sets + Chopsticks (Daiso / 212 Kitchen Supply)
+- [x] Spatula (Daiso / 212 Kitchen Supply)
+- [x] Wooden Spoon (Daiso / 212 Kitchen Supply)
+- [x] Chopping Knife + Paring Knife (Daiso / 212 Kitchen Supply)
+- [x] Frying Pan + Pot (Online)
+- [x] Hand Soap Dispenser + Refills (Sugi Drug)
+- [x] Colander (Daiso / 212 Kitchen Supply)
+- [x] Ice Cube Tray (Daiso / 212 Kitchen Supply)
 
 Cleaning Supplies
 - [x] Sponges (Sugi Drug)
-- [ ] Toilet Bowl Brush (Daiso)
-- [ ] Rubbish Bin (Online)
-- [ ] Laundry Detergent + Fabric Softener (Sugi Drug)
+- [x] Toilet Bowl Brush (Daiso)
+- [x] Rubbish Bin (Online)
+- [x] Laundry Detergent + Fabric Softener (Sugi Drug)
 - [ ] Glass Cleaner
 - [x] Multipurpose Cleaner (Sugi Drug)
 - [x] Toilet Bowl Cleaner
