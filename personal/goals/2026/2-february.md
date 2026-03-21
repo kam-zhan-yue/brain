@@ -1,14 +1,14 @@
 ## Personal
-- [ ] Move to Tokyo Accomodation
+- [x] Move to Tokyo Accomodation
 ## Career
-- [ ] Uptick: Update Tanstack Router
+- [x] Uptick: Update Tanstack Router
 - [ ] DeNA: Create a Webapp Template
-- [ ] Indie: Early game concepts / brainstorming
+- [x] Indie: Early game concepts / brainstorming
 ## Projects
 - [ ] Godot: Pixel Shader
 - [ ] Godot: Kuwahara Shader
 - [ ] Godot: ASCII Shader
-- [ ] Rework Personal Project and add Blogs section
+- [x] Rework Personal Project and add Blogs section
 - [ ] Blender: Start Learning
 ## Fitness
 - [ ] Running: 4x 3km per week
