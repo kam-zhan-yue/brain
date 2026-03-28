@@ -5,3 +5,32 @@
 2026-03-21: Lamp
 - Learned how to use the bezier curve to create curved tubes
 - Experimented with lighting in rendering
+2026-03-22: Mini Derek
+- Learned how to use proportional editing to turn a sphere into an egg shape
+- Used a lot of bevelling to create the beak and feet
+2026-03-23: Pokeball
+- Used bool modifier to create the centre indent
+- Used solidify modifier to make the shell
+- Used shade smooth and shade auto smooth to balance out the solidify modifier
+2026-03-24: Sean
+- Used sculpting tool and a subdivided cube to make the sea slug body
+- Used a combination of array and curve modifiers and tilted them to make the dress
+2026-03-25: Gameboy SP
+- Used bool modifier and difference to create indents
+- Extruded a rectangular prism from a half cylinder to create the hinge
+- The 'Blender' way is to do things backwards, start from the most complicated
+2026-03-26: Froggie
+- Extrusion, subdivisions, material allocation
+
+## Shortcuts
+- There is a search menu in F3
+- Had to turn on 'tab to open pie menu'
+- When selecting a loop in edit mode, pressing L will select half
+- CTRL+T when selecting vertices will tilt the vertices
+- When using the knife tool press C before cutting to enable cut through
+- Doing CMD + Drag will deselect, but it is necessary to turn off Emulate Numpad
+
+## Tips
+- When selecting face loops, the position of the cursor on the face will determine if it selects horizontally or vertically
+- To make things like belts, we can make a face loop, duplicate, then separate to make a new object.
+- Doing inset + CTRL + drag will inset while simultaneously adding height/depth

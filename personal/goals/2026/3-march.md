@@ -1,17 +1,19 @@
 ## Personal
 - [x] Kinosaki Onsen
-- [ ] Nagoya Trip
-- [ ] Lake Biwa Trip
+- [x] Lake Biwa Trip
+- [x] Nagoya Trip
 - [ ] Move to Tokyo
+- [ ] Spanish: 30m Daily Immersion
 ## Career
 - [ ] DeNA: Create a Webapp Template
 ## Projects
-- [ ] Godot: Pixel Shader
+- [x] Godot: Pixel Shader
 - [ ] Godot: Kuwahara Shader
 - [ ] Godot: ASCII Shader
-- [x] Blender: Start Learning
-- [ ] Rust: Advent of Code
+- [x] Blender: Daily Models & Tutorials
+- [x] Advent of Code: Rust Days 6-12
+- [ ] Advent of Code: Go Days 1-6
 ## Fitness
 - [ ] Running: 2x 3km per week
-- [ ] Rugby: 2x per week
-- [ ] Bouldering: Climb all 4-5級
+- [x] Rugby: 2 sessions
+- [x] Bouldering: Climb a 3級
