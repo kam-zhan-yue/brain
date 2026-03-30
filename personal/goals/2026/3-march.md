@@ -8,11 +8,12 @@
 - [ ] DeNA: Create a Webapp Template
 ## Projects
 - [x] Godot: Pixel Shader
+- [ ] Godot: Watercolour Shader
 - [ ] Godot: Kuwahara Shader
 - [ ] Godot: ASCII Shader
 - [x] Blender: Daily Models & Tutorials
 - [x] Advent of Code: Rust Days 6-12
-- [ ] Advent of Code: Go Days 1-6
+- [ ] Advent of Code: Go Days 1-12
 ## Fitness
 - [x] Running: 2x 3km per week
 - [x] Rugby: 2 sessions

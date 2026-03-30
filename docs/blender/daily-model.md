@@ -25,6 +25,11 @@
 - No new concepts
 2026-03-29: Ping Pong Bat
 - No new concepts
+2026-03-30: Cat Villager
+- Used cylinders to make body parts
+- Split the model in half then mirrored along the X-axis
+- Texture painted the model as opposed to using materials
+- Now, I want to learn how to use splines to animate
 
 ## Shortcuts
 - There is a search menu in F3
