@@ -2,8 +2,8 @@
 - [x] Kinosaki Onsen
 - [x] Lake Biwa Trip
 - [x] Nagoya Trip
-- [ ] Move to Tokyo
-- [ ] Spanish: 30m Daily Immersion
+- [x] Move to Tokyo
+- [x] Spanish: 30m Daily Immersion
 ## Career
 - [ ] DeNA: Create a Webapp Template
 ## Projects
