@@ -14,6 +14,6 @@
 - [x] Advent of Code: Rust Days 6-12
 - [ ] Advent of Code: Go Days 1-6
 ## Fitness
-- [ ] Running: 2x 3km per week
+- [x] Running: 2x 3km per week
 - [x] Rugby: 2 sessions
 - [x] Bouldering: Climb a 3級
