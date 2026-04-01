@@ -30,6 +30,11 @@
 - Split the model in half then mirrored along the X-axis
 - Texture painted the model as opposed to using materials
 - Now, I want to learn how to use splines to animate
+2026-04-01: Low Poly Tree
+- Invert bevel tool to create edges
+- Texture painting to create detail
+2026-04-02: Low Poly Bed
+- Instead of extruding inwards, it helps to build from bottom up, extruding upwards to build a shape around the hollow (in the case of drawers)
 
 ## Shortcuts
 - There is a search menu in F3
