@@ -39,6 +39,7 @@
 - When using the knife tool press C before cutting to enable cut through
 - Doing CMD + Drag will deselect, but it is necessary to turn off Emulate Numpad
 - U to open UV wrapping options
+- CTRL+SHIFT+B is the inverse of bevel, which can create nice cracks
 
 ## Tips
 - When selecting face loops, the position of the cursor on the face will determine if it selects horizontally or vertically
