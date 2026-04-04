@@ -35,7 +35,18 @@
 - Texture painting to create detail
 2026-04-02: Low Poly Bed
 - Instead of extruding inwards, it helps to build from bottom up, extruding upwards to build a shape around the hollow (in the case of drawers)
-
+2026-04-03: Keyboard
+- Array modifier
+- Insets
+2026-04-04: Cat / Human Model
+- Skin modifier on plane. CMD+A to scale skin modifier
+- I to inset, then I again for individual insets
+- OPT + S for shrink / flatten modifier
+- LoopTools > Circle to make things circular
+- Shift E: Select Edges > Mean Crease
+- Snapping Tool: Face > Center > Align Rotation to Target (hold CTRL with G)
+- Shrinkwrap Modifier: Allows an object to "shrink" to the surface of another object. It moves each vertex of the object being modified to the closest position on the surface of the given mesh. It is good for things like eyes and badges that attach to clothing, etc.
+- Select a loop and do S > Z > 0 to flatten it out on the Z-axis
 ## Shortcuts
 - There is a search menu in F3
 - Had to turn on 'tab to open pie menu'
@@ -45,6 +56,7 @@
 - Doing CMD + Drag will deselect, but it is necessary to turn off Emulate Numpad
 - U to open UV wrapping options
 - CTRL+SHIFT+B is the inverse of bevel, which can create nice cracks
+- OPT+R Resets the rotation
 
 ## Tips
 - When selecting face loops, the position of the cursor on the face will determine if it selects horizontally or vertically
