@@ -1,0 +1,1 @@
+An image registry is a centralised location for storing and sharing your container images. It can either be public or private. 

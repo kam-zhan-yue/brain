@@ -47,6 +47,19 @@
 - Snapping Tool: Face > Center > Align Rotation to Target (hold CTRL with G)
 - Shrinkwrap Modifier: Allows an object to "shrink" to the surface of another object. It moves each vertex of the object being modified to the closest position on the surface of the given mesh. It is good for things like eyes and badges that attach to clothing, etc.
 - Select a loop and do S > Z > 0 to flatten it out on the Z-axis
+- Skin modifier for hands makes things so easy!
+- When using the skin modifier, it is best to:
+	- Make the skeleton with the skin modifier
+	- When finished, duplicate it and hide it. This will be used for texture painting
+	- Apply the skin modifier on the original
+	- Shade smooth
+2026-04-05: Rigging the Cat Model
+- Create the armature (Blender 5 no longer has individual bones)
+  Try to make the bones match the loop cuts
+- Ensure that the roll is good, so when you rotate on individual origins with XX, the fingers can roll into a fist
+- Disabling deform will ensure that the bone doesn't manipulate the model
+- Setting the Chain Length to 0 in the inverse kinematic bone constraint will try to control as much as it possibly can. 
+- To weight paint, select the armature, shift select the object you want to weight paint, then go to weight painting
 ## Shortcuts
 - There is a search menu in F3
 - Had to turn on 'tab to open pie menu'
@@ -57,6 +70,15 @@
 - U to open UV wrapping options
 - CTRL+SHIFT+B is the inverse of bevel, which can create nice cracks
 - OPT+R Resets the rotation
+- FN+OPT+H to unhide things
+- Pose Mode > Shift + I > Add Inverse Kinematics
+- In order to add the vertices to the armature, you need to join them together using automatic weights
+
+#### Weight Painting
+Weight painting is essentially how much of the model each individual bone affects when it is rotated/moved. In order to have complete control of what each bone does, you need to adjust each bone according to every part of the model.
+ - E.g. If a bone in the arm is affecting the leg, it is possible that the bone has some weight on the leg and that needs to be removed.
+ - When weight painting, it is imperative to use auto-normalise. In doing so, when you remove weights in one area, the other bones will automatically increase their percentage to compensate.
+WHEN IN WEIGHT PAINT MODE, TO SELECT INDIVIDUAL BONES YOU NEED TO DO CMD + SHIFT + LMB
 
 ## Tips
 - When selecting face loops, the position of the cursor on the face will determine if it selects horizontally or vertically
