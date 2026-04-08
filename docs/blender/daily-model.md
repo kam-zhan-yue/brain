@@ -60,6 +60,8 @@
 - Disabling deform will ensure that the bone doesn't manipulate the model
 - Setting the Chain Length to 0 in the inverse kinematic bone constraint will try to control as much as it possibly can. 
 - To weight paint, select the armature, shift select the object you want to weight paint, then go to weight painting
+2026-04-08: Sumo Wrestler
+- To make hair, select faces on the head, duplicate and separate and solidify. Then use the knife tool to cut out the shape of the hair that you want.
 ## Shortcuts
 - There is a search menu in F3
 - Had to turn on 'tab to open pie menu'
