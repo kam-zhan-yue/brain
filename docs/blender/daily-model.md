@@ -62,6 +62,10 @@
 - To weight paint, select the armature, shift select the object you want to weight paint, then go to weight painting
 2026-04-08: Sumo Wrestler
 - To make hair, select faces on the head, duplicate and separate and solidify. Then use the knife tool to cut out the shape of the hair that you want.
+2026-04-10: Terry
+2026-04-11: Terry Armature
+2026-04-12: Terry Animation
+
 ## Shortcuts
 - There is a search menu in F3
 - Had to turn on 'tab to open pie menu'
