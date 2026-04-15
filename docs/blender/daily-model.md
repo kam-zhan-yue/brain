@@ -79,11 +79,16 @@
 - FN+OPT+H to unhide things
 - Pose Mode > Shift + I > Add Inverse Kinematics
 - In order to add the vertices to the armature, you need to join them together using automatic weights
+- To apply changes to all selected objects, make the change in the inspector, then OPT + ENTER to apply it.
 
 #### Weight Painting
 Weight painting is essentially how much of the model each individual bone affects when it is rotated/moved. In order to have complete control of what each bone does, you need to adjust each bone according to every part of the model.
  - E.g. If a bone in the arm is affecting the leg, it is possible that the bone has some weight on the leg and that needs to be removed.
  - When weight painting, it is imperative to use auto-normalise. In doing so, when you remove weights in one area, the other bones will automatically increase their percentage to compensate.
+ - Auto normalise is located in Tool > Options > Auto Normalize
+ - Bendy Bones are located in Armature > Viewport Display > Display As
+ - To scale Bendy Bones, you are best off F3'ing and searching for 'Scale BBone
+ - To change the number of segments, go to Bone > Bendy Bones > Segmentsj m3
 WHEN IN WEIGHT PAINT MODE, TO SELECT INDIVIDUAL BONES YOU NEED TO DO CMD + SHIFT + LMB
 
 ## Tips
