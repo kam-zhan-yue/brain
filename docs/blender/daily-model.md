@@ -65,6 +65,8 @@
 2026-04-10: Terry
 2026-04-11: Terry Armature
 2026-04-12: Terry Animation
+2026-04-18: Standing Desk
+- If an object disappears completely after using the boolean modifier, it could be because the geometries are very similar. To avoid this, change the solver type to Float instead of Exact
 
 ## Shortcuts
 - There is a search menu in F3
