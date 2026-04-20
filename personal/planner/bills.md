@@ -1,0 +1,2 @@
+- Rent: Receive SMS every month, pay at conbini
+- Water: Receive mail every few months, pay by app (water704575C)
