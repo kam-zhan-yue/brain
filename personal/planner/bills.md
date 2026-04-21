@@ -1,2 +1,5 @@
-- Rent: Receive SMS every month, pay at conbini
-- Water: Receive mail every few months, pay by app (water704575C)
+|             | Provider | Notification | Payment           |
+| ----------- | -------- | ------------ | ----------------- |
+| Rent        | GTN      | SMS<br>      | Cash / コンビニ       |
+| Water       | 川崎水道     | Mail         | App               |
+| Electricity | 東急電気     | Mail         | MyPage / Transfer |
