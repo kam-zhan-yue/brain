@@ -23,4 +23,5 @@ These are the list of things that I want to buy, and have procrastinated on buyi
 - [x] 2x Locks
 
 ## Coffee
-- [ ] ffjf
+- [ ] Filters
+- [ ] Pourer
