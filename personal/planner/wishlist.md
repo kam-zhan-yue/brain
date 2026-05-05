@@ -25,3 +25,4 @@ These are the list of things that I want to buy, and have procrastinated on buyi
 ## Coffee
 - [ ] Filters
 - [ ] Pourer
+- [x] Hario V60 Set for Kyoto

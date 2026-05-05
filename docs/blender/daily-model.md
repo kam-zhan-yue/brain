@@ -82,6 +82,7 @@
 - Pose Mode > Shift + I > Add Inverse Kinematics
 - In order to add the vertices to the armature, you need to join them together using automatic weights
 - To apply changes to all selected objects, make the change in the inspector, then OPT + ENTER to apply it.
+- SHIFT + X for accurate colour picking when texture painting
 
 #### Weight Painting
 Weight painting is essentially how much of the model each individual bone affects when it is rotated/moved. In order to have complete control of what each bone does, you need to adjust each bone according to every part of the model.
