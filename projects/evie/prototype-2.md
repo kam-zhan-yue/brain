@@ -1,7 +1,6 @@
-Deadline: 15th May
+Deadline: 31st May
 
-Deliverable: It should feel like a cat's playground, with the player being able to explore a densely-packed apartment room with Evie and tinker with all the loose objects to their delight.
-
+Deliverable: Starting level with all interactions and feasible story.
 ## Story
 Evie is trying to get out of the room to start her journey to find Umba. However, she first needs to get out of the door or window. Hence, she must break something. By interacting with all of the things, she builds a Rudy Golberg machine whose result breaks the door. The balcony is probably a better idea!
 
@@ -14,28 +13,31 @@ Evie is trying to get out of the room to start her journey to find Umba. However
 - When the firework explodes, we get a view of the world and the fire work goes off, Zelda like entrance
 - At the same time, there is inner dialogue of the player that lets us see into their minds. For now, this can be a static dialogue box
 
-Quests might be able to be scoped to the level?
-
 ## Checklist
-- [ ] Evie Model
-	- [ ] Base Model and Rigging
-	- [ ] Idle Animation
-	- [ ] Walking Animation
-	- [ ] Running Animation
-- [ ] Evie Movement
-	- [ ] Walking Code
-	- [ ] Jumping Code
-	- [ ] Pouncing Code
-- [ ] Level Design / Apartment Room
-	- [ ] Whitebox Design
-	- [ ] Fleshed Design
-	- [ ] Rice Cooker
-	- [ ] Keyboard and Monitor
-	- [ ] Breakable Glasses
-
+- [ ] Models
+	- [ ] Computer
+	- [ ] Tissues
+	- [ ] Fireworks
+	- [ ] Evie
+- [ ] Animations
+	- [ ] Evie Idle
+	- [ ] Evie Running
+	- [ ] Evie Jumping
+	- [ ] Evie Interactions
+- [ ] Dialogue
+	- [ ] Passive Dialogue for Items and Interaction
+	- [ ] Active Dialogue for doing things
+	- [ ] Active Dialogue when talking to others
+- [ ] Game
+	- [ ] Water Interaction
+	- [ ] Computer Interaction
+	- [ ] Firework Interaction
 ## Timeline
-- 27th April - 3rd May
-	- [x] Overall Game Planning
+- 16th May - 24th May
+	- [ ] Base Dialogue System
+	- [ ] Passive Dialogue System
+	- [ ] Active Dialogue System
+	
 	- [x] Walking, Jumping, and Pouncing Code
 	- [x] Keyboard and Monitor
 	- [x] Rice Cooker

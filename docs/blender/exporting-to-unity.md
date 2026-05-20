@@ -10,3 +10,10 @@
 
 ### Unity
 - Click on the FBX menu, select extract textures and extract materials
+
+# Animtions
+- Create the animation using keyframes, etc
+- Make multiple animations using Action Editor
+- If you want to see all the animations and adjust things like reversing, speed, etc, you can open the Nonlinear Animation window.
+- To delete animations, go to the Outliner window (top right hierarchy-like window), change ht the view to Blender File, then remove from Actions
+- Go to the Dope Sheet and

@@ -1,0 +1,1 @@
+The quest system should be there as a reminder for what to do, but it shouldn't be on the UI all the time. Instead, it should only show up when you open the map and when you complete a quest. They should be very simple things as well.
