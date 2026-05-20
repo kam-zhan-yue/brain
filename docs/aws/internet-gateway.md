@@ -1,0 +1,1 @@
+An Internet Gateway (IGW) connects your VPC to the public internet, allowing for inbound and outbound traffic.

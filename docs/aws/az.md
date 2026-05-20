@@ -1,0 +1,2 @@
+- Stands for availability zone.
+- It is a distinct physical and logical data center within a single cloud region. They are physically separated to prevent simultaneous outages while remaining connected via high-speed, low-latency fiber

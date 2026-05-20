@@ -1,0 +1,1 @@
+The Infrastructure composer allows you to visually compose modern applications on AWS. As you create your model, the composer creates your infrastructure as code (IaC) templates while following AWS best practices.

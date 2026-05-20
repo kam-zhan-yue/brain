@@ -1,0 +1,1 @@
+AWS Managed Services (AMS) is an enterprise service that provides ongoing management of your AWS infrastructure. They implement best practices and maintain infrastructure to reduce operational overhead and risk.

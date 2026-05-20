@@ -1,0 +1,1 @@
+A NAT Gateway (NGW) sits in a public subnet to allow resources in a private subnet to access the internet, but blocks unsolicited inbound traffic.
