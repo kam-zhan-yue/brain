@@ -1,0 +1,2 @@
+API Gateway is a fully managed service that acts as the "front door" for applications to access data from your backend services. You can create RESTful APIs and WebSocket APIs that enable real-time two-way applications.
+- 
