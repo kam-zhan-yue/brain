@@ -1,3 +1,16 @@
+# Unity Hub
+```shell
+yay -S unityhub
+yay -S gconf libxm12-legacy cpio # without these, unity hub crashes silently on launch
+```
+
+# Steam
+Steam didn't work due to a Segmentation Fault. However, this was found to be due to missing drivers. This will vary from device to device.
+```
+# ASUS ROG G14
+sudo pacman -S linux-headers nvidia-open-dkms nvidia-utils nvidia-settings
+```
+
 # Package Management
 ```
 pacman -Q # lists every packages
@@ -6,7 +19,7 @@ pacman -Qet # true top-level packages with no requirements
 pacman -Qm # foreign packages installed using AUR
 ```
 
-## Booting from USB
+# Booting from USB
 On ASUS ROG G14, when powering on, spam ESC.
 
 # Connecting to WIFI
