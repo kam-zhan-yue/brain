@@ -3,8 +3,8 @@
 ## Career
 - [ ] DeNA: Power through
 ## Projects
-- [ ] 3 Years: Create a 3D Cat & Dog Game
-- [ ] Linux: Daily Drive Arch Linux
+- [ ] 3 Years: Create a 3D Game
+- [x] Linux: Daily Drive Arch Linux
 ## Fitness
-- [ ] Cycling: 200km per week
+- [ ] Cycling: 150km per week
 - [ ] Bouldering: 3-4x per week

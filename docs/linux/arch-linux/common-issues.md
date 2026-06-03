@@ -1,3 +1,13 @@
+# Bluetooth
+```shell
+bluetoothctl
+devices # get MAC address of device to pair
+scan on # find devices
+pair MAC_address
+trust MAC_address # optional
+cononect MAC_address
+```
+
 # Unity Hub
 ```shell
 yay -S unityhub

@@ -1,8 +1,8 @@
-Specular lighting is based on the light's direction vector and the object's normal vectors. This time, it is also based on the view direction (from the direction the player is looking at the fragment). It is based on the reflective properties of surfaces. If we think of the object's surface as a mirror, the specular lighting is the strongest where we would see light reflected on the surface
+Diffuse lighting is based on the light's direction vector and the object's normal vectors. Specular lighting is additionally based on the view direction (from the direction the player is looking at the fragment). It is based on the reflective properties of surfaces. If we think of the object's surface as a mirror, the specular lighting is the strongest where we would see light reflected on the surface
 
 ![[13-6-specular-lighting.png]]
 
-We calculate a reflection vector by reflecting the light direction around the normal vector. Then we calculate the angular distance between this reflection vector and the view direction. The closer the angle between them, the greater the angle between them, the greater the impact of specular light. The resulting effect is that we see a bit of highlight when we're looking at the light's direction reflected via the surface.
+We calculate a reflection vector by reflecting the light direction around the normal vector. Then we calculate the angular distance between this reflection vector and the view direction. The closer the angle between them, the less the impact of specular light, but the greater the angle between them, the greater the impact of specular light. The resulting effect is that we see a bit of highlight when we're looking at the light's direction reflected via the surface.
 
 The view vector is the extra variable we need for specular lighting which we can calculate using the viewer's world space position and the fragment's position. Then we calculate the specular's intensity, multiply this with the light colour and add this to the ambient and diffuse components.
 
