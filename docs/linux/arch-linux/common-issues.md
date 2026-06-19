@@ -27,12 +27,22 @@ pacman -Q # lists every packages
 pacman -Qe # only explicitly installed packages
 pacman -Qet # true top-level packages with no requirements
 pacman -Qm # foreign packages installed using AUR
+
+pacman -Rns # deletes a package and its unneeded dependencies
 ```
 
 # Booting from USB
 On ASUS ROG G14, when powering on, spam ESC.
 
-# Connecting to WIFI
+# Connecting to WIFI normaally
+Use the NetworkManager CLI (nmcli)
+
+```
+nmcli device wifi list
+nmcli device wifi connect "YOUR_SSID" password
+```
+
+# Connecting to WIFI from Boot
 Check whether you have a network connection
 ```shell
 ip a or ip addr show
