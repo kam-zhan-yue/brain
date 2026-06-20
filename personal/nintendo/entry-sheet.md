@@ -246,10 +246,41 @@ It is important to create a deterministic way of testing different configuration
 
 ## ●経験②
 ### Ⅰ）開発した内容を簡潔にお答えください。（100文字以内）
+Eyemageddonの3Dプラットフォーマーを3人のチームで開発した。グラフックスとボスを担当した。プレイヤーは魔法の二十面体を使用し、崩れゆくステージを進みながら、巨大な目のボスと戦うゲームである。
 
 ### Ⅱ）自身がこだわった点、工夫したところはどんなところでしょうか。（100文字以内）
+I wanted to create a boss battle that looked like no other. Instead of making it seem packed with action, I utilised a Mobius shader to create visual contrast. This used sharp outlines and cross-hatched shadows to contrast the boss attacks, and the stage, providing visual clarity to the player while creating an unique, immersive environment
+
+アクション満載にするのではなく、メビウスシェーダーを実装し、視覚的な対照することにこだわった。輪郭線とクロスハッチングの影でボスの攻撃とステージを際立たせ、視覚的な明瞭さを提供することができた。
 
 ### Ⅲ）プログラムを作るうえで、自分で心がけている事、工夫している事。（100文字以内）
+You could argue that the Mobius shader was unnecessary as it doesn't change the gameplay. However, I think because it is such a contrast with the game's action genre that I feel it makes it into a completely new, interesting experience.
+
+娯楽は他と違うからこそ価値があると考える。メビエスシェーダーはゲームプレイを変化させないという意見がある。しかし、このシェーダーはアクションジャンルとは全く異なるため、新しい体験を生み出せると思う。
 
 ### Ⅳ）バグが少ないプログラムを作るには、どうすれば良いと思うか、お答えください。　（100文字以内）
+When shaders with few bugs, it is important to break down the shader rendering pipeline into distinct steps. This allows you to visually debug each step to find things that are wrong.
+
+バグが少ないシェーダーを作るには、シェーダーのレンダリングパイプラインを個別のステップに分割することが重要である。これにより、各ステップを視覚的にデバッグし、問題点を見つけることができる。
+
+
+
+## 興味を持っている技術分野を２～３つあげ、その技術のどの部分にどのように興味があるか、 　お答えください。
+
+### ①興味を持っている技術分野 ※（100文字以内）
+グラフィックプログラミング
+
+### ①理由 ※（600文字以内）
+
+
+### ②興味を持っている技術分野 ※（100文字以内）
+手続き型アニメーション
+
+### ②理由 ※（600文字以内）
+
+
+### ③興味を持っている技術分野（100文字以内）
+
+
+### ③理由（600文字以内）
 
