@@ -10,6 +10,29 @@
 
 ## Experience
 
+#### DeNA 26卒エンジニア (2026年4月〜現在)
+- Typescript・Goによる研修中にWebアプリえーションを開発した
+- AWSを利用し、インフラ構築及びデプロイパイプラインを実装した
+
+#### Uptick エンジニア 1年6ヶ月 (2024年8月〜2026年2月)
+- Typescript・Reactを用いたフロントエンド開発した
+- Python・Django・PostgreSQLを用いたバックエンド開発した
+- 700以上のルートを持つWebアプリケーションにおいて、React RouterからTanStack Routerへの移行を企画し、実装した。コードモッドやts-morphを利用し、自動変換基盤を構築した
+
+#### メルボルンゲーム開発部 2年 (2023年8月〜2025年8月)
+- 15回以上のゲームジャムやハッカソンに参加し、Unity、Godot、Bevyを用いてゲームを開発した
+- 40名の部員を3チームに編成し、各チームの進捗管理や調整を行いながら、1年間で3本のゲーム制作を主導した。Unity、Godotで幅広い業務を担当し、ゲームのCI/CDパイプラインも実装した
+- C++とOpenGLを独学し、グラフィックスプログラミングを学ぶために物理ベースレンダリングエンジンを自作した　
+
+#### Skeleton Crew Studio インターン 5ヶ月 (2021年2月〜2022年1月)
+- Unity・C#を用いたマルチプレイヤーVRゲームに携わった
+- RPCを利用したネットワーク同期UIを実装した
+
+#### Kurechii インターン 1年 (2021年2月〜2022年1月)
+- Unity・C#を用いたアクションモバイルゲームに携わった
+- ボスバトルを企画し、実装した
+- イベントドリブンアーキテクチャを用いたUIを開発した
+
 ### ゲーム開発部の部長
 
 I oversaw the production of three games and lead 40 developers over three teams. They had full creative control of the games, so I wasn't a director or producer. My 役割 was to give my experience to help them make their first game. So I did many different things.  I handled recruitment for the teams, gave 1on1s with the teams' producers, consulted with developers on best practices, etc. I even helped in programming across all of the games. To me, these teams were like my children and I wanted this to be a learning experience for everyone.
