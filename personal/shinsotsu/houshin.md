@@ -1,12 +1,3 @@
-## What kind of game do I want to make?
-- Something that both children and adults can play and enjoy
-- Something that when you play as a child, it ignites the imagination and spurs your love for games and entertainment
-- Something that truly impacts your formative years and leaves an emotional impact on you
-
-## What kind of work do I want to do at Nintendo?
-- Abstractly, I want to create those 'wow' moments. When you get your first glimpse of Hrule in the Legend of Zelda. When you're speeding through the finale of Mario, pounded on by the spectacles of the leve. When you're in a nailbiting race with your friends in Mario Kart and the effects of power ups light up your screen.
-- Technically, I want to contribute towards creating worlds that immerse the player in the game through graphics programming. I want to utilise shaders and rendering techniques to create worlds and visuals that users have never seen before. 
-
 
 ## Experience
 
@@ -41,6 +32,52 @@ During my time as the director for the game development club, I oversaw the prod
 
 ## FAQ
 
+### Why am I choosing to leave DeNA?
+
+私は、ただゲーム会社で働きたいのではなく、世代と超えて愛され、子供たちの思い出の一部になるような体験を生み出したいと考えている。
+
+私は、
+
+"I joined DeNA to gain experience making games, but my ultimate goal has always been Nintendo / Game Freak"
+
+- I joined DeNA because I wanted professional game making experiences
+- However, after joining, I realised I wanted to dedicate my career to creating original games
+- As I learned more about the company's direction and where development resources wereinvested, I realised it didn't align witn the kind of game creator I want to become
+- Game Freak does align with that vision
+
+DeNAに入社した理由は、ゲーム開発の現場で経験を積みたいと考えたからです。ゲーム開発を仕事にできる環境として非常に魅力を感じていましたし、実際に研修を通してチーム開発や開発プロセスを学び、ゲームづくりへの思いはさらに強くなりました。
+
+一方で、自分が将来どのようなゲームを作りたいかを改めて考えた結果、私は既存の成功例を発展させることよりも、新しい遊びや体験を生み出すことに挑戦したいという気持ちが非常に強いと実感しました。
+
+子どもの頃に「ポケモン」や「ゼルダの伝説」を遊んだときのような、人生に残る驚きや感動を届けるゲームを作ることが、私の目標です。そのためには、そのような作品を長年生み出してきたゲームフリークで挑戦したいと考え、応募しました。
+
+#### 会社の方向性というのは具体的には？
+入社後、会社全体としてAI領域への投資や事業展開を強化していく方針を知りました。もちろん、それ自体は会社としての重要な戦略だと理解しています。ただ、私自身はゲーム体験そのものを生み出す技術や遊びの研究に時間を使いたいという思いが強く、自分の目指すキャリアとの方向性を考えた結果、ゲーム開発により集中できる環境で挑戦したいと考えるようになりました。
+
+#### なぜDeNAでは実現できないのですか
+#### なぜ今なのですか
+#### 入社してまだ数ヶ月ですかね
+
+
+### 企業選びの軸と理由を教えてください
+
+> 次の世代の子どもたちの記憶に残る体験を届けたい。
+私の企業選びの軸は、多くの人に長く愛される作品ものづくりに携われることである。子供の頃に遊んだゲームは、単なる娯楽ではなく、私に驚きや冒険心を与え、ものづくりを志すきっかけにもなった。私もまた、ゲームを通じて、人々に笑顔にし、次の世代の子供たちの記憶に残る体験を届けたいと考えている。そのため、年齢や国境に問わず、幅広い人々に影響を与え続けている作品を生み出している企業に魅力を感じる。
+
+> 常に新しい緒戦を続ける環境で成長したい
+また、新しい挑戦を続ける企業で働くことも重視している。新しい技術やアイデアを積極的に取り入れながら、これまでにない体験を生み出す開発に携わりたいと考えている。私自身も常に学び続け、プログラマーとして成長しながら、多くの人に愛される新しいゲームや体験を創り出したいと考えている。
+
+At the same time, I want to be in a company that is challenging itself to make new things. I want to be at the forefront of new technology, experiment with new ideas, and grow as a programmer and developer. I want to be a part of new games and create new experiences that can rival Pokemon, etc
+
+### What will you do when you enter the company?
+In my first year or two, I want to work to gain the trust of my colleagues. I know that in order to prove myself, I need to show that I am capable of working well with other people. I want to focus on doing the work in front of me, no matter what role it might be.
+
+### Attitude towards AI?
+It is not god, nor is it the devil.
+It's nowhere near as good as you think it is, and it is nowhere near as bad as you think it is.
+And it changes every week.
+And it doesn't know what day of the week it is.
+
 ### Why do you want to work at Nintendo?
 For all my life, Nintendo games have instilled within me a childlike curiosity and an unparalleled love for games. I grew up playing Pokemon, Zelda, and Smash Brothers, as did millions of other kids. I became lost in these wonderous worlds and enchanting stories. I bonded with friends and family through nail-biting matches of Mario Kart and relationship-destroying games of Mario Party. I decided I wanted to become a game developer after playing Breath of the Wild and being amazed by the level of detail and attention the developers put into crafting the intricate, sprawlilng world. It's no exaggeration to say that Nintendo games have shaped who I am today.
 
@@ -52,12 +89,14 @@ I want to dedicate my life to delivering smiles to people and creating ways to e
 
 子供も大人も誰もが同じ驚きと喜びを感じられるゲームを作りたい。貴社のゲームが私に与えてくれたのと同じような影響を、次の世代の子どもたちに与えたい。
 
+### What kind of game do I want to make?
+- Something that both children and adults can play and enjoy
+- Something that when you play as a child, it ignites the imagination and spurs your love for games and entertainment
+- Something that truly impacts your formative years and leaves an emotional impact on you
 
-
-
-### What kind of games do you want to make?
-
-### What do you expect to do at Nintendo?
+### What kind of work do I want to do at Nintendo?
+- Abstractly, I want to create those 'wow' moments. When you get your first glimpse of Hrule in the Legend of Zelda. When you're speeding through the finale of Mario, pounded on by the spectacles of the leve. When you're in a nailbiting race with your friends in Mario Kart and the effects of power ups light up your screen.
+- Technically, I want to contribute towards creating worlds that immerse the player in the game through graphics programming. I want to utilise shaders and rendering techniques to create worlds and visuals that users have never seen before. 
 
 ### What is your career path?
 
