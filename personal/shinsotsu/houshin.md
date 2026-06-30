@@ -1,4 +1,3 @@
-
 ## Experience
 
 #### DeNA 26卒エンジニア (2026年4月〜現在)
@@ -24,15 +23,118 @@
 - ボスバトルを企画し、実装した
 - イベントドリブンアーキテクチャを用いたUIを開発した
 
-### ゲーム開発部の部長
+# ゲームフリーク対策
+## 1次面接
+【面談管】
+人事部とエンジニアの方
 
-I oversaw the production of three games and lead 40 developers over three teams. They had full creative control of the games, so I wasn't a director or producer. My 役割 was to give my experience to help them make their first game. So I did many different things.  I handled recruitment for the teams, gave 1on1s with the teams' producers, consulted with developers on best practices, etc. I even helped in programming across all of the games. To me, these teams were like my children and I wanted this to be a learning experience for everyone.
+【質問内容】
+- 志望動機
+- 大学・学校を選んだ理由
+- 学生時代に取り組んだこと
+- 好きなゲームとその理由、好きなゲームのプレゼン
+- 業務内容への理解度
 
-During my time as the director for the game development club, I oversaw the production of three games over the course of a year. I guided overall development by coaching producers, assisting in development, and organising milestones and events for the team. We successfully managed to release all three games on Steam and all teams grew immensely through the development process.
+### 志望動機
 
-## FAQ
+#### 「ポケモン」に貢献したい
+- 私の会社を選ぶ軸の一つは次の世代の子どもたちの記憶に残る体験を作りたいです。貴社の場合は「ポケモン」シリーズに携わりたいと思います。
+- ポケモンシリーズの開発に貢献したいです。
+- 人生で最も影響を受けたものはポケモンです。
+- 子供の頃に、お兄さんのゲームボイアンドバンスで「フィアイアレッド」を遊んだり、誕生日に「ダイアモンド・パール」をプレイするために、両親にDSを買ってほしいといっぱいお願いしました。
+- 飼っている2匹の猫は、イーブイとブラッキーの名前を付けました。
+- ポケモンのおかげで、ゲームが大好きになりました。
+- ポケモンのおかげで、たくさんの思い出を作れました。
+- 次の世代の子どもたちに同じのような記憶で残せる体験を生み出したいと思います。
 
-### Why am I choosing to leave DeNA?
+#### ギアプロジェクト
+- しかし、ポケモンだけに携わりたいことではなく、新しい体験を創り出したいと思います。
+- 特に、インディーズのゲームを憧れています。私は常に、ゲームジャムを参加して新しいアイデアを生み出しています。
+- 新しい技術やスキルを学んだ上で、斬新な体験を作れると信じています。
+- そのために、貴社のギアプロジェクトが魅力的だと思います。
+- ギアプロジェクトに取り組んで、いつか「ポケモン」に並び立つだけではなく、「ポケモン」を超えるシリーズを創り出したいと思います。
+
+### 大学を選んだ理由
+
+#### オーストラリアを選んだ理由
+- オーストラリア人ですが、マレーシアでずっと育ちました。
+- オーストラリア系の学校に通っていました。友達は大体オーストラリア人でした。
+- しかし、オーストラリアで住んだことはありませんでした。
+- それで、オーストラリアで住む経験を積むために、オーストラリアの大学に行くことをしました。
+
+#### メルボルン大学を選んだ理由
+- オーストラリアの大学の中には、メルボルン大学のコンピューターサイエンス学科は第一でした。
+- ゲームエンジニアになるために、コンピューターサイエンス基礎が必要だと思いました。
+- そして、日本に留学したかったです。メルボルン大学は日本に留学プログラムたくさんありました。
+- 最後に、メルボルン大学は全国試験の最高得点を取った学生を全額奨学金を与えていっます。
+
+### 日本に就職したい理由
+子どもの頃に「ポケモン」や「ゼルダの伝説」を遊んだときのような、人生に残る驚きや感動を届けるゲームを作ることが、私の目標です。そのためには、そのような作品を長年生み出してきたゲームフリークで挑戦したいと考え、応募しました。
+
+#### 日本のゲームの魅力さ
+- 子供の頃から、日本のゲームと日本のゲーム会社をすごく顎がれていました。
+
+
+- From a young age, I admired Japanese games and Japanese game companies.
+- I played titles like Pokemon, Zelda and they have had a huge impact on my life.
+- I want to 
+- The games made in Japan 
+- From a young age, I have been charmed by Japanese games. 
+
+If I say I wanted to work in Japan because I wanted to make games that leave an impact on people, they will ask why I am not applying to other places.
+
+That's something I have to prepare for Game Freak, but not for Nintendo.
+
+#### 友達の優しさ
+- Previously, I had answered that the people around me were amazing and supportive. The HR guy was very apprenhensive and suggested that people like that existed all around the world.
+
+### 学生時代に取り組んだこと
+
+### 好きなゲームとその理由
+- Previously, I explained a bit about Sayonara Wild Hearts, but I couldn't explain properly, making it seem like my Japanese was pretty bad (in which it was)
+
+It's gotta be Undertale right? It's just an amazing story of a guy just creating something he wanted to make and it being so well-received.
+At the end of the day, games that are truly fun and unique will sell.
+You can analyse the market all you want and try to create a game that will sell with trends.
+But if you can't capture a feeling that is innately fun, you will miss the point.
+
+Even though it is a game made by one person, it left the same impact on me as when I played Pokemon for the first time.
+I was completely enthralled in its tight gameplay, charming story, and deep world.
+
+### 好きなゲームのプレゼン
+Undertale
+- I need to be prepared to talk about a game that I'm interested in.
+
+### 業務内容への理解道
+
+### Notes
+- I also need to be able to speak about the technologies I use. If I mention good things about Godot and Rust, I need to be able to back them up.
+- Godot has no compile time because GDScript is an interpreted language.
+- Why is Rust good? Type safety, memory safety
+
+
+# 任天堂対策
+
+## 1次面接
+
+### 日本に就職したい理由
+正直に言うと、貴社に就職したかったです。
+
+
+# 共有対策
+
+### 会社を選ぶ軸は何ですか
+多くの人に長く愛される作品づくりに携われることである。子供の頃に遊んだゲームは、単なる娯楽ではなく、私に驚きや冒険心を与え、ものづくりを志すきっかけにもなった。ゲームを通じて、人々に笑顔にし、次の世代の子供たちの記憶に残る体験を届けたい。そのため、年齢や国境を問わず、幅広い人々に影響を与え続けている作品を生み出している企業に魅力を感じる。
+
+また、新しい挑戦を続ける企業で働くことも重視している。新しい技術やアイデアを積極的に取り入れながら、これまでにない体験を生み出す開発に携わりたい。私自身も常に学び続け、プログラマーとして成長しながら、多くの人に愛される新しいゲーム体験を創り出したいと考えている。
+
+
+
+### Why don't you work in Australia where the salaries are much higher
+### What are things you like and don't like about Japan
+
+### DeNAを転職したい理由
+
 
 私は、ただゲーム会社で働きたいのではなく、世代と超えて愛され、子供たちの思い出の一部になるような体験を生み出したいと考えている。
 
@@ -57,7 +159,6 @@ DeNAに入社した理由は、ゲーム開発の現場で経験を積みたい�
 #### なぜDeNAでは実現できないのですか
 #### なぜ今なのですか
 #### 入社してまだ数ヶ月ですかね
-
 
 ### 企業選びの軸と理由を教えてください
 
@@ -102,9 +203,36 @@ I want to dedicate my life to delivering smiles to people and creating ways to e
 
 ### Was the メルボルンゲーム開発部 a サークル？
 
-In Melbourne, there is no word for Circle. There isn't a difference between サークル and部 like there is in Japan. At the university, everything was a クラブ, or 部. Every club was looked at equally. You could join one club and focus all your efforts, or you could join many clubs. The rugby club was the same as the dancing club. The game making club was the same as the dancing club. There is no difference in definition like there is in Japan, so it is hard to simply say it is a circle.
+#### サークルのような言葉は存在していません
+- メルボルンでは、サークルのような単語はありませんでした。
+- 日本のような部とサークル違いはありません。全部は「club」でした。
+- 全部のクラブは平等に扱われていました。
+- ラグビークラブはダンスクラブと同じでした。
+- ゲーム開発クラブはダンスクラブと同じでした。
+- 部だったのか、サークルだったのか、言いにくいです。
+
+#### 日本のテニス部・サークルの例
+- 例えば、日本では、テニス部とテニスサークルは大違いがありますよね。
+- テニス部はしっかり練習して、大会に出るイメージはあります。
+- テニスサークルはソーシャル試合とか週2回練習のイメージはあります。
+- メルボルン大学の場合は、一つのテニスクラブしかありません。
+- 部活のよう二しっかり練習している人とサークルのように楽しんで練習している人もいます。
+- うちのゲーム開発クラブもそうでした。
+- ゲームをしっかり開発している人もいるし、ゲームを薄くて学びたい人もいました。
+- ですから、うちのゲーム開発部は部ではなく、サークルでもありませんでした。
 
 ### If you are in charge of a team, do you prioritise the game when it comes down to it?
+
+
+# 経験の話
+### ゲーム開発部の部長
+
+I oversaw the production of three games and lead 40 developers over three teams. They had full creative control of the games, so I wasn't a director or producer. My 役割 was to give my experience to help them make their first game. So I did many different things.  I handled recruitment for the teams, gave 1on1s with the teams' producers, consulted with developers on best practices, etc. I even helped in programming across all of the games. To me, these teams were like my children and I wanted this to be a learning experience for everyone.
+
+During my time as the director for the game development club, I oversaw the production of three games over the course of a year. I guided overall development by coaching producers, assisting in development, and organising milestones and events for the team. We successfully managed to release all three games on Steam and all teams grew immensely through the development process.
+
+## FAQ
+
 
 ## Games
 ### Anatis

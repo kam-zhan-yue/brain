@@ -107,5 +107,29 @@ The end goal is to have everyone at 6000/3=2000, so 乙->甲=2000, 丙->甲=500
 ある商品に、原価の4割の利益が出るように定価を設定した。
 この商品を定価の2割引で売った時、120円の利益となった。
 このとき原価はいくらか。
+- Item sold to get a 40% profit is 1.4x, where x is the cost price
+- Item sold at a 20% discount is 1.4x * 0.8
+- Profit of 120 means 1.4 * 0.8 * x = x + 120
+- x = 1000
 
+高級赤ワインと白ワインをそれぞれ10本ずつ仕入れたところ、合計140000円であった。
+赤白どちらも原価の4割の利益が出るように値段を設定し全て売り切ったところ、赤ワイン10本の利益は白ワイン10本の利益より8000円低かった。
+赤ワインの定価はいくらか。
 
+## 分担計算
+- If the question says "it takes 4 hours to do...", mark it down as 1/4
+
+## 速度算
+- Probably the easiest, just remember speed = distance / time
+
+## 表の読み取り
+- Substitute values to make everything in proportion to one another
+
+## 特殊計算
+- Get the total amount and use algebra lmao
+
+円形の花壇に円状に花を植える。円の長さが一周5mで、25cmごとに花を植える場合何本の花が必要か。
+- If it is circular, it loops back to itself so it is 5 / 0.25 = 20
+
+まっすぐの花壇に花を並べて植える。花壇の長さが10mで、花同士は25cmの間隔を開けて植える場合、何本の花を並べることができるか。
+- If it is straight, it doesn't loop back, so there is an extra 10 / 0.25 + 1 = 41
