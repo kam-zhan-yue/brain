@@ -71,39 +71,52 @@
 ### 日本に就職したい理由
 子どもの頃に「ポケモン」や「ゼルダの伝説」を遊んだときのような、人生に残る驚きや感動を届けるゲームを作ることが、私の目標です。そのためには、そのような作品を長年生み出してきたゲームフリークで挑戦したいと考え、応募しました。
 
-#### 日本のゲームの魅力さ
 - 子供の頃から、日本のゲームと日本のゲーム会社をすごく顎がれていました。
-
-
 - From a young age, I admired Japanese games and Japanese game companies.
 - I played titles like Pokemon, Zelda and they have had a huge impact on my life.
-- I want to 
-- The games made in Japan 
-- From a young age, I have been charmed by Japanese games. 
-
-If I say I wanted to work in Japan because I wanted to make games that leave an impact on people, they will ask why I am not applying to other places.
-
-That's something I have to prepare for Game Freak, but not for Nintendo.
-
-#### 友達の優しさ
-- Previously, I had answered that the people around me were amazing and supportive. The HR guy was very apprenhensive and suggested that people like that existed all around the world.
+- I want to make games that impact people the way those games did to me
+- Out of all of them, I believe Pokemon is extremely special. Everyone grew up playing it, everyone has memories with it.
+- I want to be a part of the team that makes those memories for other people.
 
 ### 学生時代に取り組んだこと
 
+- Co-founded the University of Melbourne Game Makers' Club in 2023 and grew the club to over 400 members
+- Secretary for 1 year, President for 1 year
+- Hosted meetups, workshops, game jams every week to foster a grassroots game-making community
+- I was also in charge of three development teams that made three games in one year, eventually releasing them on Steam
+
+The thing I'm most proud of is building a community that cherishes game development.
+- We had regular members coming to meetups where it felt like a safe place to talk about all about games
+- Our game jams brought together people from different departments and universities
+- The development team put in so much of their own work and poured their passion into the projects
+- I felt honoured to be a part of their experiences
+
+I learned that game development is not something you do alone.
+When you have a team that supports you and trusts you, you can make truly great things.
+
 ### 好きなゲームとその理由
-- Previously, I explained a bit about Sayonara Wild Hearts, but I couldn't explain properly, making it seem like my Japanese was pretty bad (in which it was)
 
-It's gotta be Undertale right? It's just an amazing story of a guy just creating something he wanted to make and it being so well-received.
-At the end of the day, games that are truly fun and unique will sell.
-You can analyse the market all you want and try to create a game that will sell with trends.
-But if you can't capture a feeling that is innately fun, you will miss the point.
+#### Undertale
+Undertale is a game about a child who falls into an underworld filled with monsters. You can choose to FIGHT or ACT your way through battles.
+Every monster has unique attacks and a unique personality. You can choose to spare them or kill them at times.
 
-Even though it is a game made by one person, it left the same impact on me as when I played Pokemon for the first time.
-I was completely enthralled in its tight gameplay, charming story, and deep world.
+#### 好きの理由
+I like Undertale because it's a perfectly handcrafted experience. You can feel the developer's thoughts behind every decision.
+Undertale was made primarily by one person; Toby Fox. He did all the programming, music, and storywriting for the game.
 
-### 好きなゲームのプレゼン
-Undertale
-- I need to be prepared to talk about a game that I'm interested in.
+By having complete control of the game, he was able to craft his perfect experience.
+The music is so overwhelming and empowering.
+The art is whimsical and playful.
+The story is charming and relatable.
+The gameplay is simple, but intense.
+
+Every single decision, every line of dialogue, every pixel on the screen, feels like there is purpose to it.
+It's game that feels like it was made out of love.
+
+And that's what I love about it.
+Toby Fox made Undertale because he wanted to make something for himself.
+He didn't think about trends, about using the latest technology.
+He made something he liked, and the world happened to just love it.
 
 ### 業務内容への理解道
 
@@ -112,7 +125,6 @@ Undertale
 - Godot has no compile time because GDScript is an interpreted language.
 - Why is Rust good? Type safety, memory safety
 
-
 # 任天堂対策
 
 ## 1次面接
@@ -120,21 +132,111 @@ Undertale
 ### 日本に就職したい理由
 正直に言うと、貴社に就職したかったです。
 
-
 # 共有対策
+
+### キャリアパス
+Where do you see yourself in 5, 10 years time?
+10 Year Goal: I want to be a technical director on a huge title
+- I want to be able to call the shots on how the game looks and feels
+- I want to be in charge of graphic programmers and technical artists
+
+5 Year Goal: I want to be a lead or senior engineer on a title
+- I want to build up my technical knowledge
+- I want to solve very difficult problems and learn from those experiences
+
+1-2 Year Goal: I want to be a key player
+- I want to work towards gaining the trust of the people around me
+- I want to deepen my foundational game making knowledge
+
+### 強み・弱点
+
+#### 強み: 
+
+I don't stop until I create something as I have perfectly imagined it to be. From ideation to creation, I put in my こだわり at every step until it turns out as I imagine it to be. When creating experiences, it is also important to take into consideration the input of other people, such as artists and designers. I have plenty of experience creating games with a variety of people, ensuring that the vision that they want to deliver is meticulously created through the level, environment, and interactions.
+
+私の強みは、理想とする形を表現するまで粘り強く取り組むことである。アイデア出しから制作まで、あらゆる段階で細部までこだわりながら、目指す成果を表現するまで努力を惜しみません。私はプランナーやアーティストなどと共にゲームを制作してきた経験がある。レベルデザインや環境表現を通して、チームが伝えたいビジョンが細部に至るまで丁寧に形にすることに努めてきた。
+
+Example: I think this is best exemplified with Anatis. In order to deliver that game, I meticulously poured over every detail.
+- I had a vision to make a game that had the intensity of an action game, but also the careful strategic thinking of a puzzle game
+- I wanted the game to look a certain way, so I poured in effort to get the visuals just right with the shader and effects
+- I wanted the cards to feel satisfying, so I spent extra attention getting the game feel and animations just right
+In order to deliver my ideal experience, I went through every detail to ensure it was conveyed to the player.
+
+#### Weak Point
+
+I often start things because I'm impatient.
+Particularly, when the team is discussing between options and spending more time talking than doing things, I prefer to just start.
+I understand that discussion is important, but it is important to have a balance.
+It's important to balance the thoughts of the group with the reality of deadlines.
+
+Example: During DeNA's 研修, we had to create a project in teams that "delivered delight".
+- We had two ideas that were fairly similar, but the group couldn't decide
+- We had already spent two days discussing an idea and I grew impatient
+- I made the prototypes myself so that we could have a better idea on which one to choose
+Although we made a better decision, some people felt I didn't contribute enough to the discussion.
+
+I learned that there are people that like to deeply discuss things and it's important to take their thoughts into consideration.
+I need to learn to balance my desire to get things done and their ideas.
+We now set deadlines on when to make decisions, and if a decision isn't made, we just make a choice because we need to move on.
+
 
 ### 会社を選ぶ軸は何ですか
 多くの人に長く愛される作品づくりに携われることである。子供の頃に遊んだゲームは、単なる娯楽ではなく、私に驚きや冒険心を与え、ものづくりを志すきっかけにもなった。ゲームを通じて、人々に笑顔にし、次の世代の子供たちの記憶に残る体験を届けたい。そのため、年齢や国境を問わず、幅広い人々に影響を与え続けている作品を生み出している企業に魅力を感じる。
 
 また、新しい挑戦を続ける企業で働くことも重視している。新しい技術やアイデアを積極的に取り入れながら、これまでにない体験を生み出す開発に携わりたい。私自身も常に学び続け、プログラマーとして成長しながら、多くの人に愛される新しいゲーム体験を創り出したいと考えている。
 
-
-
 ### Why don't you work in Australia where the salaries are much higher
+- I was previously earning more than double my current salary with a higher position
+- However, I gave up all of that in order to pursue my dreams of game development
+- I want to make games that have meaning for other people and I'll do anything to make that happen
+
 ### What are things you like and don't like about Japan
+There are so many things.
+I think my answer last year was not too respectful lmao
 
 ### DeNAを転職したい理由
 
+Why I don't want to work at DeNA
+- The AI culture and pivot
+- I don't believe they will make the games I want to make
+- They think of games more like a business than anything else
+
+After working at DeNA and rethinking about my criteria for choosing what company I want to work in, I realised that I want to dedicate my whole career to making games that leave a true impact on the world. I believe that I can learn valuable skills at DeNA, but if I want to have the same level of impact, I would need to work at your company.
+After all, there are truly no other games like the games that your company makes.
+
+There is also the option of 転職, but I know a few things:
+- At DeNA, we use C# and positions at your company require C++ experience
+- DeNA doesn't have a focused graphics department, so it's hard to gain graphics experience
+- DeNA is a Nintendo Group 
+
+
+However, I can't say any of these in an interview. Because if I do, they will just assume that I will leave their company when it doesn't go right for me.
+I need to make some sort of lie in order to make it seem like I respect DeNA, but I realised it wasn't the place for me.
+I guess the approach of "it's not the games I want to make" is not great, but "it's not the same impact I want to leave on the world"
+And if they ask why I can't do that at DeNA, I can say that I can, but I know that it wouldn't have the same impact if I worked on Nintendo or Game Freak games.
+And if they ask why I can't stay at DeNA and transfer, I want to say that it is an option but
+- I want to be a part of their company from the start, which means thoroughly learning their policies and such
+
+After working at DeNA and reflecting on what kind of game developer I want to become, I realised that I want to make games that have a huge impact on other people.
+I realised that in order to achieve this goal, 
+I realised that the companies that would 
+
+
+Firstly, I think it's important explain why I entered DeNA.
+Although I wanted to enter either Nintendo or Game Freak, I failed their interviews.
+I entered DeNA because I wanted game-making experience and thought I could 転職 in the future.
+
+Let's review my three reasons:
+- It's turned into an "AI-Native" company
+- I realised I want to make meaningful games
+- It will be difficult to 転職 because the languages and skills there won't be applicable to larger game companies
+    - They use C# and not C++
+    - They don't have a focused graphics department
+    - They specialise in mobile games
+
+In order to make this 面接 friendly, I need to focus on two things:
+- I realised I wanted to dedicate my career to creating original games(?)
+- I originally wanted to 転職, but it's hard to get the right 転職 skills(?)
 
 私は、ただゲーム会社で働きたいのではなく、世代と超えて愛され、子供たちの思い出の一部になるような体験を生み出したいと考えている。
 
@@ -157,21 +259,10 @@ DeNAに入社した理由は、ゲーム開発の現場で経験を積みたい�
 入社後、会社全体としてAI領域への投資や事業展開を強化していく方針を知りました。もちろん、それ自体は会社としての重要な戦略だと理解しています。ただ、私自身はゲーム体験そのものを生み出す技術や遊びの研究に時間を使いたいという思いが強く、自分の目指すキャリアとの方向性を考えた結果、ゲーム開発により集中できる環境で挑戦したいと考えるようになりました。
 
 #### なぜDeNAでは実現できないのですか
+
+
 #### なぜ今なのですか
 #### 入社してまだ数ヶ月ですかね
-
-### 企業選びの軸と理由を教えてください
-
-> 次の世代の子どもたちの記憶に残る体験を届けたい。
-私の企業選びの軸は、多くの人に長く愛される作品ものづくりに携われることである。子供の頃に遊んだゲームは、単なる娯楽ではなく、私に驚きや冒険心を与え、ものづくりを志すきっかけにもなった。私もまた、ゲームを通じて、人々に笑顔にし、次の世代の子供たちの記憶に残る体験を届けたいと考えている。そのため、年齢や国境に問わず、幅広い人々に影響を与え続けている作品を生み出している企業に魅力を感じる。
-
-> 常に新しい緒戦を続ける環境で成長したい
-また、新しい挑戦を続ける企業で働くことも重視している。新しい技術やアイデアを積極的に取り入れながら、これまでにない体験を生み出す開発に携わりたいと考えている。私自身も常に学び続け、プログラマーとして成長しながら、多くの人に愛される新しいゲームや体験を創り出したいと考えている。
-
-At the same time, I want to be in a company that is challenging itself to make new things. I want to be at the forefront of new technology, experiment with new ideas, and grow as a programmer and developer. I want to be a part of new games and create new experiences that can rival Pokemon, etc
-
-### What will you do when you enter the company?
-In my first year or two, I want to work to gain the trust of my colleagues. I know that in order to prove myself, I need to show that I am capable of working well with other people. I want to focus on doing the work in front of me, no matter what role it might be.
 
 ### Attitude towards AI?
 It is not god, nor is it the devil.
@@ -198,8 +289,6 @@ I want to dedicate my life to delivering smiles to people and creating ways to e
 ### What kind of work do I want to do at Nintendo?
 - Abstractly, I want to create those 'wow' moments. When you get your first glimpse of Hrule in the Legend of Zelda. When you're speeding through the finale of Mario, pounded on by the spectacles of the leve. When you're in a nailbiting race with your friends in Mario Kart and the effects of power ups light up your screen.
 - Technically, I want to contribute towards creating worlds that immerse the player in the game through graphics programming. I want to utilise shaders and rendering techniques to create worlds and visuals that users have never seen before. 
-
-### What is your career path?
 
 ### Was the メルボルンゲーム開発部 a サークル？
 
