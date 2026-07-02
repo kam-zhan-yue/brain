@@ -196,73 +196,23 @@ I think my answer last year was not too respectful lmao
 
 ### DeNAを転職したい理由
 
-Why I don't want to work at DeNA
-- The AI culture and pivot
-- I don't believe they will make the games I want to make
-- They think of games more like a business than anything else
-
-After working at DeNA and rethinking about my criteria for choosing what company I want to work in, I realised that I want to dedicate my whole career to making games that leave a true impact on the world. I believe that I can learn valuable skills at DeNA, but if I want to have the same level of impact, I would need to work at your company.
-After all, there are truly no other games like the games that your company makes.
-
-There is also the option of 転職, but I know a few things:
-- At DeNA, we use C# and positions at your company require C++ experience
-- DeNA doesn't have a focused graphics department, so it's hard to gain graphics experience
-- DeNA is a Nintendo Group 
-
-
-However, I can't say any of these in an interview. Because if I do, they will just assume that I will leave their company when it doesn't go right for me.
-I need to make some sort of lie in order to make it seem like I respect DeNA, but I realised it wasn't the place for me.
-I guess the approach of "it's not the games I want to make" is not great, but "it's not the same impact I want to leave on the world"
-And if they ask why I can't do that at DeNA, I can say that I can, but I know that it wouldn't have the same impact if I worked on Nintendo or Game Freak games.
-And if they ask why I can't stay at DeNA and transfer, I want to say that it is an option but
-- I want to be a part of their company from the start, which means thoroughly learning their policies and such
-
-After working at DeNA and reflecting on what kind of game developer I want to become, I realised that I want to make games that have a huge impact on other people.
-I realised that in order to achieve this goal, 
-I realised that the companies that would 
-
-
-Firstly, I think it's important explain why I entered DeNA.
-Although I wanted to enter either Nintendo or Game Freak, I failed their interviews.
-I entered DeNA because I wanted game-making experience and thought I could 転職 in the future.
-
-Let's review my three reasons:
-- It's turned into an "AI-Native" company
-- I realised I want to make meaningful games
-- It will be difficult to 転職 because the languages and skills there won't be applicable to larger game companies
-    - They use C# and not C++
-    - They don't have a focused graphics department
-    - They specialise in mobile games
-
-In order to make this 面接 friendly, I need to focus on two things:
-- I realised I wanted to dedicate my career to creating original games(?)
-- I originally wanted to 転職, but it's hard to get the right 転職 skills(?)
-
-私は、ただゲーム会社で働きたいのではなく、世代と超えて愛され、子供たちの思い出の一部になるような体験を生み出したいと考えている。
-
-私は、
-
-"I joined DeNA to gain experience making games, but my ultimate goal has always been Nintendo / Game Freak"
-
-- I joined DeNA because I wanted professional game making experiences
-- However, after joining, I realised I wanted to dedicate my career to creating original games
-- As I learned more about the company's direction and where development resources wereinvested, I realised it didn't align witn the kind of game creator I want to become
-- Game Freak does align with that vision
-
-DeNAに入社した理由は、ゲーム開発の現場で経験を積みたいと考えたからです。ゲーム開発を仕事にできる環境として非常に魅力を感じていましたし、実際に研修を通してチーム開発や開発プロセスを学び、ゲームづくりへの思いはさらに強くなりました。
-
-一方で、自分が将来どのようなゲームを作りたいかを改めて考えた結果、私は既存の成功例を発展させることよりも、新しい遊びや体験を生み出すことに挑戦したいという気持ちが非常に強いと実感しました。
-
-子どもの頃に「ポケモン」や「ゼルダの伝説」を遊んだときのような、人生に残る驚きや感動を届けるゲームを作ることが、私の目標です。そのためには、そのような作品を長年生み出してきたゲームフリークで挑戦したいと考え、応募しました。
-
-#### 会社の方向性というのは具体的には？
-入社後、会社全体としてAI領域への投資や事業展開を強化していく方針を知りました。もちろん、それ自体は会社としての重要な戦略だと理解しています。ただ、私自身はゲーム体験そのものを生み出す技術や遊びの研究に時間を使いたいという思いが強く、自分の目指すキャリアとの方向性を考えた結果、ゲーム開発により集中できる環境で挑戦したいと考えるようになりました。
+#### 理由
+DeNAに入社した当初は、ゲーム開発の事務経験を積むことを目的としていました。
+しかし、実際にゲーム業界で働く中で、改めて自分のキャリアを考えました。
+その結果は、貴社のゲームのように、人々に驚きと笑顔を届け、次の世代の記憶に残るゲームを作りたいという思いが一層強くなりました。
+貴社のようなゲームうを作っている会社は、世の中どこにもないと信じています。
 
 #### なぜDeNAでは実現できないのですか
-
+- DeNAのゲームにも魅力的な作品が多くあると考えています。
+- しかし、貴社のゲームには、世代を超えて長く愛され、記憶に残る体験を生み出す特別さがあると考えています。
+- 子供も大人も貴社のゲームを楽しめるし、子供から大ファンはそれぞれの形で楽しめる設計になっていると思います。
+- また、作品全体から開発者の強いこだわりや愛情が感じられ、そのようなものづくりの姿勢に強く魅力を感じています。  
 
 #### なぜ今なのですか
-#### 入社してまだ数ヶ月ですかね
+- 実は、私の最終目的は貴社に働くことでした。しかし、去年貴社の新卒採用を受けましたが、不合格でした。
+- 当初は数年間経験を積んだ後に、改めて貴社の採用へ挑戦することを考えていました。
+- しかし、実際にゲーム業界で働く中で、自分が本当に作りたいゲームや目指したいキャリアを改めて考えた結果、その思いが以前よりも強くなりました。
+- 技術面でも、貴社で働くためにはC++の経験が必要だと考えています。DeNAでは主にC#で開発しているため、C++の経験を積む機会は限られると考えていました。
 
 ### Attitude towards AI?
 It is not god, nor is it the devil.
