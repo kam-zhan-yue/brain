@@ -12,8 +12,8 @@ These are the list of things that I want to buy, and have procrastinated on buyi
 - [ ] Metroid Fusion
 - [ ] Castlevania Aria of Sorrow
 - [ ] F Zero Climax
-- [ ] Rhythm Heaven (GBA)
-- [ ] Rhythm Heaven (Switch)
+- [ ] Rhythm Heaven (GBA) - ¥6,000
+- [x] Rhythm Heaven (Switch)
 ## Technology
  - [ ] Keycaps for Keyball 44 (some other day)
  - [ ] Sleek TRS Cable for Keyball 44 (ゆうしゃこうぼう)

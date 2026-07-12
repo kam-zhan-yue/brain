@@ -1,10 +1,12 @@
 ## Personal
 - [ ] Spanish: 30m Daily Immersion
 ## Career
-- [ ] DeNA: Power through
+- [x] DeNA: Power through
+- [x] Nintendo: Application
+- [x] Game Freak: Application
 ## Projects
 - [ ] 3 Years: Create a 3D Game
 - [x] Linux: Daily Drive Arch Linux
 ## Fitness
-- [ ] Cycling: 150km per week
-- [ ] Bouldering: 3-4x per week
+- [x] Cycling: 150km per week
+- [x] Bouldering: 3-4x per week
