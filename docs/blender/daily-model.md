@@ -100,6 +100,8 @@ WHEN IN WEIGHT PAINT MODE, TO SELECT INDIVIDUAL BONES YOU NEED TO DO CMD + SHIFT
 - Doing inset + CTRL + drag will inset while simultaneously adding height/depth
 - When texture painting, if the paint is going behind the texture, it is likely that the face orientations are off. Go into the Show Overlays Menu and click 'Face Orientations'. Blue faces are front-facing, and red faces are back-facing. Inverted normals throw off bump maps and smoothing. To solve this, go to Edit Mode, select everything and Shift+N to recalculate faces.
 - With low poly assets, it is best to create a texture atlas that contains all of the colours in the scene. Then, UV unwrap the textures and assign their faces to a colour on the atlas
+- To display or unwrap only a specific set of faces in the UV Editor, toggle off the UV Sync Selection option. This prevents Blender from showing your entire 3D mesh in the UV workspace.
+- To get rid of materials and textures, unlink them from everything then do File > Clean Up > Purge Unused Data
 ## Animation
 - Use 'I' to insert keyframes
 - OPT + Mouse Wheel to Scrub the Timeline

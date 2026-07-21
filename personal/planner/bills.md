@@ -5,3 +5,6 @@
 | Electricity | 東急電気     | Mail         | MyPage / Transfer |
 | Phone       | Mobal     | Mail         | Automatic |
 | Internet    | Rakuten(?) | ? | ? |
+
+## Contact
+- マンションの管理会社: 050-6865-7535
