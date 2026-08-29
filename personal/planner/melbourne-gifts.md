@@ -14,7 +14,6 @@
 - [ ] 2 Boxes of Snacks (Uptick)
 - [ ] Kim's Birthday Gift
 - [ ] Kim's Wedding Registration Gift
-- [ ] Jason's Birthday Gift
 - [ ] XL B-Pump Sirt
 - [ ] L B-Pump Shirt
 - [ ] L B-Pump Shirt
