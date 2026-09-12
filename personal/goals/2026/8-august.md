@@ -1,16 +1,16 @@
 ## Personal
-- [ ] Spanish: 30m Daily Immersion
+- [ ] Spanish: 30m Daily Immersion (Failed)
 - [x] Complete 3 Games
 	- [x] Neva
 	- [x] Titan Souls
 	- [x] Big Walk
 
 ## Career
-- [ ] DeNA: Handle most of the 0.22.0 release
+- [x] DeNA: Handle most of the 0.22.0 release
 
 ## Projects
-- [ ] Wizard Gladiator Prototype
+- [ ] Wizard Gladiator Prototype (Failed)
 
 ## Fitness
-- [ ] Cycling: 200km per week
-- [ ] Bouldering: 2-3x per week
+- [x] Cycling: 150km per week
+- [x] Bouldering: 2-3x per week
