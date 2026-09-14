@@ -1,14 +1,15 @@
 ## Hang Outs
-- [ ] GMC Stuff
-- [ ] Fidel
-- [ ] Patrick
-- [ ] Logan
-- [ ] Rayner
-- [ ] Daniel and Eden
-- [ ] Evan, Toby, Claire, Billy
-- [ ] Alex
-- [ ] Josh
-- [ ] Rebecca
+- [x] GMC Stuff
+- [ ] Fidel -> messaged
+- [x] Patrick -> messaged
+- [x] Logan -> messaged
+- [ ] Rayner -> messaged
+- [x] Daniel and Eden -> Saturday
+- [x] Evan, Toby, Claire, Billy -> Sunday
+- [x] Alex -> Friday
+- [ ] Josh -> Messaged
+- [ ] Rebecca -> messaged
+- [x] Andy -> Messaged
 ### Flight to Melbourne
 - Depart 14th September 5:15pm -  Narita Airport  
 - Arrive 14th September 9:10pm - Hong Kong International Airport
@@ -26,7 +27,8 @@
 #### 19th September - Saturday
 - Daniel and Eden Day Trip?
 #### 20th September - Sunday
- - Cycling?
+ - Brunch with Evan and Gang
+ - Bouldering and Dinner with Uptick
 #### 21st September - Monday
 - GMC Maker Meetup
 #### 22nd September - Tuesday
