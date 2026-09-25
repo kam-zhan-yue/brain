@@ -1,14 +1,14 @@
 ## Hang Outs
 - [x] GMC Stuff
-- [ ] Fidel -> messaged
+- [x] Fidel -> messaged
 - [x] Patrick -> messaged
 - [x] Logan -> messaged
-- [ ] Rayner -> messaged
+- [x] Rayner -> messaged
 - [x] Daniel and Eden -> Saturday
 - [x] Evan, Toby, Claire, Billy -> Sunday
 - [x] Alex -> Friday
-- [ ] Josh -> Messaged
-- [ ] Rebecca -> messaged
+- [x] Josh -> Messaged
+- [x] Rebecca -> messaged
 - [x] Andy -> Messaged
 ### Flight to Melbourne
 - Depart 14th September 5:15pm -  Narita Airport  
