@@ -5,10 +5,10 @@
     - [x] PC: What Remains of Edith Finch
     - [x] PC: Lil Gator Game
     - [x] Gameboy: Mother 2
-    - [x] Switch: Rhythm Heaven Grooving
+    - [ ] Switch: Rhythm Heaven Grooving
 
 ## Career
-- [x] DeNA: Handle most of the 0.23.0 release (to refine)
+- [ ] DeNA: Handle most of the 0.23.0 release (to refine)
 
 ## Projects
 - [ ] Wizard Gladiator Prototype
@@ -17,5 +17,5 @@
     - [ ] Spider Boss
 
 ## Fitness
-- [x] Cycling: 150km per week
-- [x] Bouldering: 2-3x per week
+- [ ] Cycling: 150km per week
+- [ ] Bouldering: 2-3x per week
