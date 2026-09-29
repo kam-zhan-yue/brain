@@ -1,0 +1,2 @@
+- [x] Contact the Mansion people to send me another text
+- [x] Pay the rent at a convenience store
